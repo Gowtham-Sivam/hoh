@@ -1,0 +1,286 @@
+client,service,year,ssc_charges
+Acme Corporation,Advisory Services,2021,1802
+Acme Corporation,Currency Management,2021,1171
+Acme Corporation,Custody,2021,756
+Acme Corporation,Equity and Fixed Income,2021,613
+Alpha Omega Labs,Custody,2021,0
+Alpha Omega Labs,Hedge Fund Services,2021,957
+Alpha Omega Labs,Multi Asset Class Sol,2021,1990
+Alpha Omega Labs,Security Finances,2021,1403
+Apex Innovations,Advisory Services,2021,158
+Apex Innovations,Currency Management,2021,346
+Apex Innovations,Custody,2021,2663
+Apex Innovations,Digital Assets,2021,1219
+Apex Innovations,Equity and Fixed Income,2021,1132
+Apex Innovations,Hedge Fund Services,2021,832
+Apex Innovations,NAV Calculation,2021,1475
+Apex Innovations,Security Finances,2021,584
+Apex Innovations,Trade Settlements,2021,565
+BlueSky Innovations,Advisory Services,2021,695
+BlueSky Innovations,Currency Management,2021,1801
+BlueSky Innovations,Digital Assets,2021,1515
+BlueSky Innovations,Equity and Fixed Income,2021,2000
+BlueSky Innovations,Hedge Fund Services,2021,0
+BlueSky Innovations,Multi Asset Class Sol,2021,1635
+BlueSky Innovations,Security Finances,2021,681
+BlueSky Innovations,Trade Settlements,2021,1442
+BrightWave Technologies,Currency Management,2021,1341
+BrightWave Technologies,Custody,2021,2300
+BrightWave Technologies,Hedge Fund Services,2021,474
+BrightWave Technologies,Multi Asset Class Sol,2021,1893
+BrightWave Technologies,Security Finances,2021,3214
+BrightWave Technologies,Trade Settlements,2021,595
+DynaCore Industries,Equity and Fixed Income,2021,2290
+DynaCore Industries,Security Finances,2021,114
+DynaCore Industries,Trade Settlements,2021,752
+EcoFusion Energy,Advisory Services,2021,2273
+EcoFusion Energy,Currency Management,2021,920
+EcoFusion Energy,Custody,2021,926
+EcoFusion Energy,Equity and Fixed Income,2021,1203
+EcoFusion Energy,Hedge Fund Services,2021,1976
+EcoFusion Energy,NAV Calculation,2021,1162
+EcoFusion Energy,Security Finances,2021,1717
+EcoFusion Energy,Trade Settlements,2021,2592
+FusionWorks Group,Advisory Services,2021,979
+FusionWorks Group,Currency Management,2021,1653
+FusionWorks Group,Digital Assets,2021,951
+FusionWorks Group,Equity and Fixed Income,2021,926
+FusionWorks Group,Multi Asset Class Sol,2021,620
+FusionWorks Group,NAV Calculation,2021,793
+FusionWorks Group,Security Finances,2021,3470
+FusionWorks Group,Trade Settlements,2021,1381
+Global Innovations Group,Advisory Services,2021,281
+Global Innovations Group,Currency Management,2021,557
+Global Innovations Group,Equity and Fixed Income,2021,903
+Global Innovations Group,Hedge Fund Services,2021,976
+Global Innovations Group,Multi Asset Class Sol,2021,1179
+Global Innovations Group,NAV Calculation,2021,2038
+Global Innovations Group,Security Finances,2021,875
+Global Innovations Group,Trade Settlements,2021,2193
+Horizon Technologies,Advisory Services,2021,0
+Horizon Technologies,Currency Management,2021,1629
+Horizon Technologies,Custody,2021,1175
+Horizon Technologies,Digital Assets,2021,1145
+Horizon Technologies,Equity and Fixed Income,2021,1668
+Horizon Technologies,Hedge Fund Services,2021,1426
+Horizon Technologies,NAV Calculation,2021,1193
+Horizon Technologies,Trade Settlements,2021,200
+InnovateX Solutions,Advisory Services,2021,2423
+InnovateX Solutions,Currency Management,2021,3011
+InnovateX Solutions,Custody,2021,1508
+InnovateX Solutions,Digital Assets,2021,374
+InnovateX Solutions,Hedge Fund Services,2021,2605
+InnovateX Solutions,Security Finances,2021,2497
+Moonshot Technologies,Advisory Services,2021,2776
+Moonshot Technologies,Currency Management,2021,1106
+Moonshot Technologies,Custody,2021,3038
+Nexus Enterprises,Advisory Services,2021,1216
+Nexus Enterprises,Custody,2021,678
+Nexus Enterprises,Trade Settlements,2021,1235
+Omega Dynamics,Currency Management,2021,602
+Omega Dynamics,Equity and Fixed Income,2021,3060
+Omega Dynamics,NAV Calculation,2021,1769
+Omega Dynamics,Security Finances,2021,1633
+Omega Dynamics,Trade Settlements,2021,2048
+OptiTech Solutions,Advisory Services,2021,0
+OptiTech Solutions,Currency Management,2021,509
+OptiTech Solutions,Custody,2021,683
+OptiTech Solutions,Digital Assets,2021,4710
+OptiTech Solutions,Equity and Fixed Income,2021,2098
+OptiTech Solutions,Multi Asset Class Sol,2021,910
+OptiTech Solutions,Trade Settlements,2021,2587
+Phoenix Ventures,Custody,2021,1081
+Phoenix Ventures,Digital Assets,2021,317
+Phoenix Ventures,Equity and Fixed Income,2021,145
+Phoenix Ventures,Multi Asset Class Sol,2021,1135
+Phoenix Ventures,NAV Calculation,2021,2457
+Phoenix Ventures,Security Finances,2021,2150
+Quantum Systems Inc.,Custody,2021,1453
+Quantum Systems Inc.,Equity and Fixed Income,2021,2122
+Quantum Systems Inc.,Hedge Fund Services,2021,461
+Quantum Systems Inc.,Multi Asset Class Sol,2021,805
+Quantum Systems Inc.,NAV Calculation,2021,2115
+QuantumCraft Inc.,Advisory Services,2021,1689
+QuantumCraft Inc.,Currency Management,2021,3405
+QuantumCraft Inc.,Custody,2021,1147
+QuantumCraft Inc.,Digital Assets,2021,1453
+QuantumCraft Inc.,Equity and Fixed Income,2021,2405
+QuantumCraft Inc.,Multi Asset Class Sol,2021,187
+QuantumCraft Inc.,Trade Settlements,2021,407
+SilverStar Systems,Advisory Services,2021,855
+SilverStar Systems,Currency Management,2021,842
+SilverStar Systems,Digital Assets,2021,1325
+SilverStar Systems,Multi Asset Class Sol,2021,1826
+Stellar Services,Currency Management,2021,892
+Stellar Services,Custody,2021,264
+Stellar Services,Trade Settlements,2021,0
+Sunburst Solutions,Advisory Services,2021,1375
+Sunburst Solutions,Custody,2021,3588
+Sunburst Solutions,Equity and Fixed Income,2021,1877
+Sunburst Solutions,Hedge Fund Services,2021,1076
+Sunburst Solutions,NAV Calculation,2021,2121
+Sunburst Solutions,Security Finances,2021,640
+Sunburst Solutions,Trade Settlements,2021,128
+Synergy Ventures,Advisory Services,2021,1396
+Synergy Ventures,Currency Management,2021,324
+Synergy Ventures,Digital Assets,2021,1545
+Synergy Ventures,Equity and Fixed Income,2021,1233
+Synergy Ventures,Hedge Fund Services,2021,1159
+Synergy Ventures,NAV Calculation,2021,1844
+Synergy Ventures,Security Finances,2021,48
+Synergy Ventures,Trade Settlements,2021,1221
+Techtonic Solutions,Custody,2021,718
+Techtonic Solutions,Digital Assets,2021,3453
+Techtonic Solutions,Multi Asset Class Sol,2021,1700
+Techtonic Solutions,NAV Calculation,2021,146
+Techtonic Solutions,Security Finances,2021,1111
+Techtonic Solutions,Trade Settlements,2021,348
+Vertex Enterprises,Advisory Services,2021,1644
+Vertex Enterprises,Currency Management,2021,1815
+Vertex Enterprises,Digital Assets,2021,1505
+Vertex Enterprises,Hedge Fund Services,2021,1404
+Vertex Enterprises,NAV Calculation,2021,1402
+Widget Industries,Currency Management,2021,1841
+Widget Industries,Security Finances,2021,1184
+Widget Industries,Trade Settlements,2021,1734
+Acme Corporation,Advisory Services,2022,493
+Acme Corporation,Currency Management,2022,1350
+Acme Corporation,Custody,2022,2536
+Acme Corporation,Equity and Fixed Income,2022,655
+Alpha Omega Labs,Custody,2022,2344
+Alpha Omega Labs,Hedge Fund Services,2022,1095
+Alpha Omega Labs,Multi Asset Class Sol,2022,856
+Alpha Omega Labs,Security Finances,2022,1833
+Apex Innovations,Advisory Services,2022,1778
+Apex Innovations,Currency Management,2022,1587
+Apex Innovations,Custody,2022,960
+Apex Innovations,Digital Assets,2022,1740
+Apex Innovations,Equity and Fixed Income,2022,1311
+Apex Innovations,Hedge Fund Services,2022,2435
+Apex Innovations,NAV Calculation,2022,559
+Apex Innovations,Security Finances,2022,668
+Apex Innovations,Trade Settlements,2022,3206
+BlueSky Innovations,Advisory Services,2022,906
+BlueSky Innovations,Currency Management,2022,1892
+BlueSky Innovations,Digital Assets,2022,3116
+BlueSky Innovations,Equity and Fixed Income,2022,130
+BlueSky Innovations,Hedge Fund Services,2022,839
+BlueSky Innovations,Multi Asset Class Sol,2022,656
+BlueSky Innovations,Security Finances,2022,1188
+BlueSky Innovations,Trade Settlements,2022,967
+BrightWave Technologies,Currency Management,2022,1114
+BrightWave Technologies,Custody,2022,159
+BrightWave Technologies,Equity and Fixed Income,2022,879
+BrightWave Technologies,Hedge Fund Services,2022,1473
+BrightWave Technologies,Multi Asset Class Sol,2022,271
+BrightWave Technologies,Security Finances,2022,1709
+BrightWave Technologies,Trade Settlements,2022,1238
+DynaCore Industries,Equity and Fixed Income,2022,1871
+DynaCore Industries,Trade Settlements,2022,1056
+EcoFusion Energy,Advisory Services,2022,0
+EcoFusion Energy,Currency Management,2022,519
+EcoFusion Energy,Custody,2022,1534
+EcoFusion Energy,Digital Assets,2022,1666
+EcoFusion Energy,Equity and Fixed Income,2022,305
+EcoFusion Energy,Hedge Fund Services,2022,1117
+EcoFusion Energy,NAV Calculation,2022,1897
+EcoFusion Energy,Security Finances,2022,1245
+FusionWorks Group,Advisory Services,2022,1869
+FusionWorks Group,Currency Management,2022,1865
+FusionWorks Group,Digital Assets,2022,1965
+FusionWorks Group,Equity and Fixed Income,2022,1695
+FusionWorks Group,Multi Asset Class Sol,2022,1333
+FusionWorks Group,NAV Calculation,2022,925
+FusionWorks Group,Security Finances,2022,567
+FusionWorks Group,Trade Settlements,2022,1469
+Global Innovations Group,Advisory Services,2022,1495
+Global Innovations Group,Currency Management,2022,2210
+Global Innovations Group,Equity and Fixed Income,2022,892
+Global Innovations Group,Hedge Fund Services,2022,204
+Global Innovations Group,Multi Asset Class Sol,2022,0
+Global Innovations Group,NAV Calculation,2022,2791
+Global Innovations Group,Security Finances,2022,1815
+Global Innovations Group,Trade Settlements,2022,1711
+Horizon Technologies,Advisory Services,2022,2458
+Horizon Technologies,Currency Management,2022,1997
+Horizon Technologies,Custody,2022,1085
+Horizon Technologies,Digital Assets,2022,2174
+Horizon Technologies,Equity and Fixed Income,2022,1528
+Horizon Technologies,Hedge Fund Services,2022,567
+Horizon Technologies,NAV Calculation,2022,1360
+Horizon Technologies,Trade Settlements,2022,2056
+InnovateX Solutions,Advisory Services,2022,925
+InnovateX Solutions,Currency Management,2022,1601
+InnovateX Solutions,Custody,2022,14
+InnovateX Solutions,Digital Assets,2022,965
+InnovateX Solutions,Hedge Fund Services,2022,1837
+InnovateX Solutions,Security Finances,2022,904
+Moonshot Technologies,Advisory Services,2022,0
+Moonshot Technologies,Custody,2022,1569
+Moonshot Technologies,Trade Settlements,2022,1529
+Nexus Enterprises,Advisory Services,2022,1262
+Nexus Enterprises,Custody,2022,641
+Nexus Enterprises,Trade Settlements,2022,683
+Omega Dynamics,Currency Management,2022,813
+Omega Dynamics,Equity and Fixed Income,2022,21
+Omega Dynamics,NAV Calculation,2022,1034
+Omega Dynamics,Security Finances,2022,861
+Omega Dynamics,Trade Settlements,2022,1223
+OptiTech Solutions,Advisory Services,2022,759
+OptiTech Solutions,Currency Management,2022,1775
+OptiTech Solutions,Custody,2022,1535
+OptiTech Solutions,Digital Assets,2022,1216
+OptiTech Solutions,Equity and Fixed Income,2022,3138
+OptiTech Solutions,Hedge Fund Services,2022,2291
+OptiTech Solutions,NAV Calculation,2022,1597
+OptiTech Solutions,Trade Settlements,2022,1037
+Phoenix Ventures,Custody,2022,1026
+Phoenix Ventures,Digital Assets,2022,2823
+Phoenix Ventures,Equity and Fixed Income,2022,848
+Phoenix Ventures,Multi Asset Class Sol,2022,1613
+Phoenix Ventures,NAV Calculation,2022,339
+Phoenix Ventures,Security Finances,2022,75
+Quantum Systems Inc.,Custody,2022,3059
+Quantum Systems Inc.,Equity and Fixed Income,2022,2314
+Quantum Systems Inc.,Hedge Fund Services,2022,2065
+Quantum Systems Inc.,Multi Asset Class Sol,2022,1151
+QuantumCraft Inc.,Advisory Services,2022,1786
+QuantumCraft Inc.,Currency Management,2022,1032
+QuantumCraft Inc.,Digital Assets,2022,1452
+QuantumCraft Inc.,Equity and Fixed Income,2022,1241
+QuantumCraft Inc.,Multi Asset Class Sol,2022,924
+QuantumCraft Inc.,Trade Settlements,2022,2744
+SilverStar Systems,Advisory Services,2022,863
+SilverStar Systems,Currency Management,2022,812
+SilverStar Systems,Digital Assets,2022,2171
+SilverStar Systems,Multi Asset Class Sol,2022,4586
+Stellar Services,Currency Management,2022,1481
+Stellar Services,Custody,2022,1594
+Stellar Services,Trade Settlements,2022,1479
+Sunburst Solutions,Advisory Services,2022,1042
+Sunburst Solutions,Equity and Fixed Income,2022,2299
+Sunburst Solutions,Hedge Fund Services,2022,1922
+Sunburst Solutions,NAV Calculation,2022,2451
+Sunburst Solutions,Security Finances,2022,757
+Sunburst Solutions,Trade Settlements,2022,1292
+Synergy Ventures,Advisory Services,2022,785
+Synergy Ventures,Currency Management,2022,2602
+Synergy Ventures,Custody,2022,857
+Synergy Ventures,Digital Assets,2022,916
+Synergy Ventures,Hedge Fund Services,2022,633
+Synergy Ventures,NAV Calculation,2022,912
+Synergy Ventures,Security Finances,2022,2038
+Synergy Ventures,Trade Settlements,2022,1757
+Techtonic Solutions,Digital Assets,2022,651
+Techtonic Solutions,Multi Asset Class Sol,2022,1777
+Techtonic Solutions,NAV Calculation,2022,1662
+Techtonic Solutions,Security Finances,2022,1362
+Techtonic Solutions,Trade Settlements,2022,258
+Vertex Enterprises,Advisory Services,2022,1326
+Vertex Enterprises,Currency Management,2022,1374
+Vertex Enterprises,Digital Assets,2022,820
+Vertex Enterprises,Hedge Fund Services,2022,1122
+Vertex Enterprises,NAV Calculation,2022,2089
+Widget Industries,Currency Management,2022,1165
+Widget Industries,Security Finances,2022,1656
+Widget Industries,Trade Settlements,2022,1664

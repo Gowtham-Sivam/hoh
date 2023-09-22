@@ -1,0 +1,1852 @@
+client,year,service,roi,cost,feedback
+Acme Corporation,2010,Security Finances,59,76.08718197302989,3
+Acme Corporation,2010,Security Finances,50,54.68216096605075,1
+Acme Corporation,2010,NAV Calculation,85,50,1
+Acme Corporation,2010,Equity and Fixed Income,34,100,4
+Acme Corporation,2010,Security Finances,2,100,3
+Acme Corporation,2010,Multi Asset Class Sol,55,50,5
+Acme Corporation,2010,Security Finances,46,60.65883284850338,2
+Acme Corporation,2011,Security Finances,48,86.6666988325868,3
+Acme Corporation,2012,Currency Management,72,95.67906664310284,2
+Acme Corporation,2012,Digital Assets,94,100,1
+Acme Corporation,2012,Hedge Fund Services,43,50,5
+Acme Corporation,2012,NAV Calculation,66,91.4821006963279,3
+Acme Corporation,2012,Advisory Services,84,100,2
+Acme Corporation,2012,Currency Management,28,83.1903259446586,1
+Acme Corporation,2012,NAV Calculation,78,69.03258064055893,3
+Acme Corporation,2012,Digital Assets,72,100,3
+Acme Corporation,2012,Security Finances,73,50,3
+Acme Corporation,2012,Multi Asset Class Sol,100,74.12404419332222,5
+Acme Corporation,2013,Multi Asset Class Sol,15,89.41290633955008,2
+Acme Corporation,2013,NAV Calculation,63,50,5
+Acme Corporation,2013,Security Finances,20,67.39040764884743,2
+Acme Corporation,2013,Security Finances,81,100,1
+Acme Corporation,2014,Trade Settlements,66,100,5
+Acme Corporation,2014,Custody,56,83.86943362815373,1
+Acme Corporation,2015,Trade Settlements,83,96.90555820057959,4
+Acme Corporation,2015,Currency Management,3,93.0999298347528,2
+Acme Corporation,2015,Currency Management,56,100,2
+Acme Corporation,2015,Hedge Fund Services,61,100,2
+Acme Corporation,2015,Advisory Services,18,100,5
+Acme Corporation,2015,Currency Management,68,70.95271083107447,3
+Acme Corporation,2015,Custody,1,100,4
+Acme Corporation,2015,Advisory Services,48,50,1
+Acme Corporation,2015,Hedge Fund Services,24,100,4
+Acme Corporation,2015,Digital Assets,99,100,5
+Acme Corporation,2016,Multi Asset Class Sol,73,50,1
+Acme Corporation,2016,Hedge Fund Services,20,100,3
+Acme Corporation,2016,Equity and Fixed Income,80,68.14015154145028,1
+Acme Corporation,2016,NAV Calculation,16,50,3
+Acme Corporation,2016,Equity and Fixed Income,71,76.91986254374797,5
+Acme Corporation,2016,Security Finances,20,100,3
+Acme Corporation,2016,Multi Asset Class Sol,74,50,4
+Acme Corporation,2016,Currency Management,72,50,1
+Acme Corporation,2017,NAV Calculation,46,98.79297462357188,5
+Acme Corporation,2017,Custody,77,50,5
+Acme Corporation,2017,Advisory Services,60,68.35432033555848,4
+Acme Corporation,2017,Equity and Fixed Income,56,87.16087361925526,5
+Acme Corporation,2017,Advisory Services,37,84.04938701220432,4
+Acme Corporation,2017,Security Finances,15,80.59424452047321,3
+Acme Corporation,2017,Currency Management,22,50,5
+Acme Corporation,2018,Custody,59,100,5
+Acme Corporation,2018,Equity and Fixed Income,72,50,3
+Acme Corporation,2019,Trade Settlements,70,50,1
+Acme Corporation,2020,Security Finances,91,60.79956108234862,4
+Acme Corporation,2020,Security Finances,96,84.8943773167991,5
+Acme Corporation,2021,NAV Calculation,99,100,2
+Acme Corporation,2021,Advisory Services,14,86.38139292992884,3
+Acme Corporation,2021,NAV Calculation,43,89.57337546188089,3
+Acme Corporation,2021,Advisory Services,12,100,4
+Acme Corporation,2021,Currency Management,7,66.86812187266008,1
+Acme Corporation,2022,Trade Settlements,33,50,2
+Acme Corporation,2022,Custody,85,100,3
+Acme Corporation,2022,Custody,100,59.72235613666319,1
+Acme Corporation,2022,Hedge Fund Services,75,64.43210835344631,1
+Acme Corporation,2022,NAV Calculation,59,69.29494653583242,5
+Acme Corporation,2022,Trade Settlements,38,50,1
+Acme Corporation,2022,Hedge Fund Services,55,50,4
+Widget Industries,2010,Multi Asset Class Sol,66,69.34272288742778,5
+Widget Industries,2010,Equity and Fixed Income,78,100,4
+Widget Industries,2010,Multi Asset Class Sol,76,100,5
+Widget Industries,2010,Custody,79,100,4
+Widget Industries,2010,Equity and Fixed Income,24,100,2
+Widget Industries,2010,Multi Asset Class Sol,10,95.96508779412294,1
+Widget Industries,2010,Digital Assets,60,58.879847179369975,5
+Widget Industries,2010,NAV Calculation,1,100,1
+Widget Industries,2010,Security Finances,50,50,4
+Widget Industries,2011,Currency Management,94,50,4
+Widget Industries,2011,Advisory Services,12,84.73987497713311,4
+Widget Industries,2011,Security Finances,14,92.22979183550542,2
+Widget Industries,2011,Custody,61,50,1
+Widget Industries,2011,NAV Calculation,68,50.67651330893973,4
+Widget Industries,2011,Digital Assets,41,50,1
+Widget Industries,2011,Hedge Fund Services,92,100,3
+Widget Industries,2011,Advisory Services,33,50,1
+Widget Industries,2012,Equity and Fixed Income,51,64.96448844323265,1
+Widget Industries,2012,Multi Asset Class Sol,29,51.89570722943714,2
+Widget Industries,2012,Security Finances,33,75.59208708222772,3
+Widget Industries,2012,Security Finances,78,50,5
+Widget Industries,2012,Equity and Fixed Income,37,76.35621116513101,4
+Widget Industries,2012,Digital Assets,52,63.274706131873,1
+Widget Industries,2013,NAV Calculation,78,50,5
+Widget Industries,2013,Currency Management,14,50,2
+Widget Industries,2013,Multi Asset Class Sol,14,50,2
+Widget Industries,2013,Advisory Services,19,65.07221279342211,2
+Widget Industries,2013,Advisory Services,12,50,4
+Widget Industries,2013,Currency Management,16,100,3
+Widget Industries,2013,Security Finances,82,50,3
+Widget Industries,2013,Advisory Services,83,50,1
+Widget Industries,2013,Digital Assets,72,50,3
+Widget Industries,2013,Advisory Services,41,95.52370684396833,4
+Widget Industries,2014,Security Finances,74,100,3
+Widget Industries,2014,Security Finances,67,86.58367946205789,4
+Widget Industries,2014,NAV Calculation,87,85.09734414568644,4
+Widget Industries,2014,Equity and Fixed Income,25,100,1
+Widget Industries,2014,Multi Asset Class Sol,55,100,4
+Widget Industries,2014,Multi Asset Class Sol,16,50,3
+Widget Industries,2014,NAV Calculation,95,100,3
+Widget Industries,2014,Hedge Fund Services,86,84.5766037627454,5
+Widget Industries,2014,Custody,89,97.49393699376353,2
+Widget Industries,2015,Equity and Fixed Income,70,96.72294345575284,2
+Widget Industries,2015,Hedge Fund Services,100,72.18289796850834,1
+Widget Industries,2015,Multi Asset Class Sol,39,50,5
+Widget Industries,2015,Equity and Fixed Income,33,78.85395754480462,2
+Widget Industries,2016,Digital Assets,48,100,2
+Widget Industries,2016,Digital Assets,58,92.79741845739444,3
+Widget Industries,2016,Multi Asset Class Sol,86,54.80417397681819,1
+Widget Industries,2016,NAV Calculation,54,60.55440840338545,4
+Widget Industries,2016,Trade Settlements,6,100,4
+Widget Industries,2016,Digital Assets,35,67.5175529158794,1
+Widget Industries,2016,NAV Calculation,25,100,3
+Widget Industries,2016,Security Finances,12,60.272088886648746,5
+Widget Industries,2016,Currency Management,57,100,1
+Widget Industries,2017,Custody,35,50,2
+Widget Industries,2017,Digital Assets,30,100,4
+Widget Industries,2018,Trade Settlements,1,53.70241040394889,5
+Widget Industries,2018,Equity and Fixed Income,33,100,5
+Widget Industries,2018,Currency Management,61,100,2
+Widget Industries,2018,Currency Management,52,100,5
+Widget Industries,2019,Currency Management,69,81.36697640579231,1
+Widget Industries,2019,Advisory Services,3,77.31659393765204,1
+Widget Industries,2019,Multi Asset Class Sol,28,100,5
+Widget Industries,2019,Multi Asset Class Sol,1,50,5
+Widget Industries,2019,Multi Asset Class Sol,7,86.01352264857083,4
+Widget Industries,2019,Digital Assets,12,100,4
+Widget Industries,2019,Security Finances,45,50,1
+Widget Industries,2020,Multi Asset Class Sol,92,50,5
+Widget Industries,2020,Custody,60,50,3
+Widget Industries,2020,Advisory Services,33,92.35242893542902,4
+Widget Industries,2020,Currency Management,13,74.99673638706682,4
+Widget Industries,2020,Hedge Fund Services,38,50,5
+Widget Industries,2021,Digital Assets,17,57.338853975656974,1
+Widget Industries,2021,Equity and Fixed Income,55,50,4
+Widget Industries,2021,Multi Asset Class Sol,94,50,4
+Widget Industries,2021,Security Finances,83,98.79521309910122,4
+Widget Industries,2021,Trade Settlements,82,89.02194140081109,2
+Widget Industries,2021,Advisory Services,6,60.78238389623809,5
+Widget Industries,2021,Hedge Fund Services,10,98.92616392749426,2
+Widget Industries,2021,Advisory Services,67,83.58342152292992,5
+Widget Industries,2021,Trade Settlements,73,62.322384608175525,4
+Widget Industries,2021,Security Finances,96,100,5
+Widget Industries,2022,Equity and Fixed Income,22,100,5
+Widget Industries,2022,Security Finances,75,100,2
+Widget Industries,2022,Digital Assets,16,58.18163624035971,3
+Widget Industries,2022,Multi Asset Class Sol,62,100,4
+Widget Industries,2022,Custody,78,77.1057290521739,4
+Widget Industries,2022,Multi Asset Class Sol,24,50,4
+Widget Industries,2022,Custody,94,88.96461010886657,3
+Widget Industries,2022,Security Finances,39,100,3
+Widget Industries,2022,NAV Calculation,49,50,5
+Widget Industries,2022,Trade Settlements,19,96.08403956208912,1
+Global Innovations Group,2010,Multi Asset Class Sol,5,75.92450906815436,3
+Global Innovations Group,2010,Multi Asset Class Sol,97,50,3
+Global Innovations Group,2011,Hedge Fund Services,80,93.10930553654603,4
+Global Innovations Group,2011,Custody,92,50,3
+Global Innovations Group,2011,Trade Settlements,43,50,1
+Global Innovations Group,2011,Digital Assets,86,100,5
+Global Innovations Group,2011,Digital Assets,37,69.7128978330816,2
+Global Innovations Group,2011,Custody,90,81.92319082715535,3
+Global Innovations Group,2012,Security Finances,47,50,2
+Global Innovations Group,2012,Hedge Fund Services,73,100,5
+Global Innovations Group,2012,Multi Asset Class Sol,68,100,3
+Global Innovations Group,2013,Digital Assets,82,69.90072782196015,1
+Global Innovations Group,2013,Currency Management,49,100,2
+Global Innovations Group,2013,Custody,78,100,2
+Global Innovations Group,2013,Digital Assets,52,100,1
+Global Innovations Group,2013,Custody,42,100,5
+Global Innovations Group,2013,Advisory Services,34,51.4285047100541,5
+Global Innovations Group,2013,Multi Asset Class Sol,86,100,3
+Global Innovations Group,2013,Multi Asset Class Sol,50,100,3
+Global Innovations Group,2013,Security Finances,46,54.35481820330874,3
+Global Innovations Group,2014,Digital Assets,38,50,5
+Global Innovations Group,2014,Currency Management,73,50,5
+Global Innovations Group,2014,Digital Assets,38,50,3
+Global Innovations Group,2014,Advisory Services,19,65.39748629234694,3
+Global Innovations Group,2014,Currency Management,36,50,2
+Global Innovations Group,2014,Equity and Fixed Income,98,100,5
+Global Innovations Group,2014,Digital Assets,26,76.30942720311062,4
+Global Innovations Group,2014,Advisory Services,49,72.24014645736604,5
+Global Innovations Group,2014,Hedge Fund Services,14,100,3
+Global Innovations Group,2015,NAV Calculation,97,62.77487106873701,2
+Global Innovations Group,2015,Digital Assets,71,50.71324040492302,4
+Global Innovations Group,2015,Trade Settlements,41,84.86880234941687,1
+Global Innovations Group,2015,Advisory Services,89,77.71192799920324,2
+Global Innovations Group,2016,Advisory Services,69,97.42983382517309,5
+Global Innovations Group,2016,Custody,29,100,3
+Global Innovations Group,2017,NAV Calculation,34,100,1
+Global Innovations Group,2017,Advisory Services,33,94.86703381305854,2
+Global Innovations Group,2017,Security Finances,66,98.24114258592685,3
+Global Innovations Group,2017,NAV Calculation,67,100,5
+Global Innovations Group,2017,Currency Management,74,100,5
+Global Innovations Group,2018,Digital Assets,31,100,1
+Global Innovations Group,2018,Multi Asset Class Sol,66,100,5
+Global Innovations Group,2018,Trade Settlements,95,100,2
+Global Innovations Group,2019,Multi Asset Class Sol,78,100,5
+Global Innovations Group,2019,Currency Management,65,60.85757590591122,3
+Global Innovations Group,2019,Currency Management,24,58.86329799362561,4
+Global Innovations Group,2019,Advisory Services,5,86.90563259451528,4
+Global Innovations Group,2019,Custody,38,100,4
+Global Innovations Group,2019,Trade Settlements,43,73.872766222327,2
+Global Innovations Group,2020,Advisory Services,33,87.30077571676932,3
+Global Innovations Group,2020,Custody,38,50,2
+Global Innovations Group,2020,Currency Management,30,100,1
+Global Innovations Group,2020,Digital Assets,89,82.82993033733679,1
+Global Innovations Group,2020,Currency Management,2,89.51464591594322,3
+Global Innovations Group,2020,Security Finances,54,100,2
+Global Innovations Group,2020,Custody,59,50,1
+Global Innovations Group,2021,NAV Calculation,57,50,1
+Global Innovations Group,2021,NAV Calculation,87,50,5
+Global Innovations Group,2021,Advisory Services,72,50,5
+Global Innovations Group,2022,Security Finances,63,90.9661870499793,2
+Global Innovations Group,2022,Hedge Fund Services,97,100,3
+Global Innovations Group,2022,Currency Management,25,56.87115427611566,4
+Global Innovations Group,2022,Security Finances,96,50,3
+Global Innovations Group,2022,Currency Management,68,50,2
+Global Innovations Group,2022,Trade Settlements,29,50,2
+Global Innovations Group,2022,Digital Assets,89,78.4303166395185,4
+Global Innovations Group,2022,Advisory Services,42,77.40272809352966,2
+Techtonic Solutions,2010,Trade Settlements,67,58.086561929691584,3
+Techtonic Solutions,2010,Hedge Fund Services,96,58.99287034290897,2
+Techtonic Solutions,2011,Security Finances,23,71.45595919681969,5
+Techtonic Solutions,2012,Multi Asset Class Sol,14,50,3
+Techtonic Solutions,2012,Hedge Fund Services,12,65.41244721824853,1
+Techtonic Solutions,2012,Trade Settlements,26,82.57628847616311,4
+Techtonic Solutions,2012,Multi Asset Class Sol,93,50,2
+Techtonic Solutions,2012,Digital Assets,92,76.06594232714383,2
+Techtonic Solutions,2012,Multi Asset Class Sol,40,50,4
+Techtonic Solutions,2012,Equity and Fixed Income,40,100,1
+Techtonic Solutions,2012,NAV Calculation,23,50,4
+Techtonic Solutions,2012,Digital Assets,58,50,2
+Techtonic Solutions,2012,NAV Calculation,65,50,2
+Techtonic Solutions,2013,Multi Asset Class Sol,7,50,5
+Techtonic Solutions,2013,NAV Calculation,84,50,3
+Techtonic Solutions,2013,Advisory Services,39,50,1
+Techtonic Solutions,2014,Custody,40,50,4
+Techtonic Solutions,2014,Hedge Fund Services,23,56.507020565355845,4
+Techtonic Solutions,2014,Trade Settlements,38,63.42971033569101,1
+Techtonic Solutions,2014,Trade Settlements,5,69.11497878957533,1
+Techtonic Solutions,2014,Multi Asset Class Sol,77,50,5
+Techtonic Solutions,2014,NAV Calculation,19,50,5
+Techtonic Solutions,2014,Digital Assets,68,57.22826398631271,4
+Techtonic Solutions,2014,Security Finances,24,50,3
+Techtonic Solutions,2014,Currency Management,16,50,2
+Techtonic Solutions,2015,NAV Calculation,32,50,3
+Techtonic Solutions,2015,Security Finances,4,86.19445115661225,4
+Techtonic Solutions,2016,Trade Settlements,92,50,1
+Techtonic Solutions,2016,Equity and Fixed Income,32,50,3
+Techtonic Solutions,2016,Currency Management,11,100,3
+Techtonic Solutions,2016,Trade Settlements,99,97.89805236912038,2
+Techtonic Solutions,2016,Equity and Fixed Income,34,84.66381928608654,1
+Techtonic Solutions,2016,Security Finances,40,50,3
+Techtonic Solutions,2016,Multi Asset Class Sol,92,50.38874941925131,3
+Techtonic Solutions,2016,Hedge Fund Services,21,64.60684134688671,3
+Techtonic Solutions,2016,Custody,13,60.47777953551518,3
+Techtonic Solutions,2017,NAV Calculation,87,50,2
+Techtonic Solutions,2017,Advisory Services,38,62.49746338450342,4
+Techtonic Solutions,2017,Trade Settlements,5,100,5
+Techtonic Solutions,2018,Digital Assets,14,63.63301828449424,4
+Techtonic Solutions,2018,Trade Settlements,92,70.64088256255121,3
+Techtonic Solutions,2018,Currency Management,54,51.603103954740305,3
+Techtonic Solutions,2018,Trade Settlements,69,100,5
+Techtonic Solutions,2019,Digital Assets,87,100,4
+Techtonic Solutions,2019,Security Finances,90,100,1
+Techtonic Solutions,2019,Hedge Fund Services,4,100,3
+Techtonic Solutions,2020,Currency Management,30,69.36182512816993,3
+Techtonic Solutions,2020,Digital Assets,55,62.37238895619259,5
+Techtonic Solutions,2020,Multi Asset Class Sol,29,50,4
+Techtonic Solutions,2020,Custody,30,90.82415394205488,1
+Techtonic Solutions,2021,Multi Asset Class Sol,66,100,4
+Techtonic Solutions,2021,Digital Assets,51,53.326377247003094,1
+Techtonic Solutions,2021,Digital Assets,64,93.1998365449407,5
+Techtonic Solutions,2021,Trade Settlements,62,68.53319753999173,5
+Techtonic Solutions,2021,Security Finances,91,100,5
+Techtonic Solutions,2021,NAV Calculation,80,57.515456605901804,1
+Techtonic Solutions,2021,Digital Assets,28,100,5
+Techtonic Solutions,2022,Custody,52,100,2
+Techtonic Solutions,2022,NAV Calculation,46,50,5
+Techtonic Solutions,2022,Currency Management,70,100,5
+Techtonic Solutions,2022,Currency Management,66,100,3
+Techtonic Solutions,2022,Hedge Fund Services,7,65.81398551416162,5
+Techtonic Solutions,2022,Trade Settlements,89,71.0258905675287,3
+Techtonic Solutions,2022,Multi Asset Class Sol,48,67.717434379901,5
+Techtonic Solutions,2022,Security Finances,18,68.30015549608777,2
+Quantum Systems Inc.,2010,Hedge Fund Services,94,100,4
+Quantum Systems Inc.,2011,Security Finances,9,100,5
+Quantum Systems Inc.,2011,Hedge Fund Services,31,100,4
+Quantum Systems Inc.,2011,Security Finances,95,100,1
+Quantum Systems Inc.,2011,Currency Management,98,70.78713000666295,5
+Quantum Systems Inc.,2011,Trade Settlements,69,72.1142624005075,5
+Quantum Systems Inc.,2012,Custody,20,55.73341661680703,2
+Quantum Systems Inc.,2012,Equity and Fixed Income,13,50,4
+Quantum Systems Inc.,2012,Digital Assets,85,93.06588887610374,5
+Quantum Systems Inc.,2012,Hedge Fund Services,81,96.18429914055916,1
+Quantum Systems Inc.,2012,Security Finances,96,50,5
+Quantum Systems Inc.,2012,Digital Assets,62,100,4
+Quantum Systems Inc.,2012,NAV Calculation,8,96.40865173523447,2
+Quantum Systems Inc.,2012,Security Finances,74,51.073100246243065,2
+Quantum Systems Inc.,2012,NAV Calculation,95,66.8458532696896,2
+Quantum Systems Inc.,2012,Hedge Fund Services,26,100,1
+Quantum Systems Inc.,2013,Security Finances,95,63.999185456419156,4
+Quantum Systems Inc.,2013,Hedge Fund Services,38,100,4
+Quantum Systems Inc.,2013,Custody,71,92.32643145008092,1
+Quantum Systems Inc.,2013,Hedge Fund Services,75,91.3861424316792,1
+Quantum Systems Inc.,2013,Security Finances,7,50,1
+Quantum Systems Inc.,2013,Digital Assets,62,62.594774781526255,5
+Quantum Systems Inc.,2013,Equity and Fixed Income,69,100,1
+Quantum Systems Inc.,2013,Equity and Fixed Income,43,71.05466647112944,3
+Quantum Systems Inc.,2013,Advisory Services,97,100,1
+Quantum Systems Inc.,2013,Currency Management,62,50,5
+Quantum Systems Inc.,2014,Custody,24,50,3
+Quantum Systems Inc.,2014,Currency Management,60,50,4
+Quantum Systems Inc.,2014,Equity and Fixed Income,55,66.98356963566846,2
+Quantum Systems Inc.,2014,Currency Management,26,50,5
+Quantum Systems Inc.,2014,Hedge Fund Services,27,50,1
+Quantum Systems Inc.,2014,Trade Settlements,99,62.71027741232069,5
+Quantum Systems Inc.,2014,Advisory Services,63,50,2
+Quantum Systems Inc.,2014,Security Finances,97,50,3
+Quantum Systems Inc.,2015,Hedge Fund Services,43,99.58810078639249,5
+Quantum Systems Inc.,2015,Currency Management,17,98.54203594629186,4
+Quantum Systems Inc.,2015,NAV Calculation,74,87.11281715418123,2
+Quantum Systems Inc.,2015,Multi Asset Class Sol,100,50,1
+Quantum Systems Inc.,2015,NAV Calculation,96,50,1
+Quantum Systems Inc.,2015,Advisory Services,17,50,1
+Quantum Systems Inc.,2016,Equity and Fixed Income,24,88.59139745239693,1
+Quantum Systems Inc.,2016,Advisory Services,72,100,1
+Quantum Systems Inc.,2016,Advisory Services,23,50,2
+Quantum Systems Inc.,2016,Hedge Fund Services,36,50,1
+Quantum Systems Inc.,2017,Hedge Fund Services,54,86.90202613511195,1
+Quantum Systems Inc.,2017,Advisory Services,32,71.20664837564814,5
+Quantum Systems Inc.,2017,NAV Calculation,66,65.34860813520568,1
+Quantum Systems Inc.,2017,Currency Management,32,50,2
+Quantum Systems Inc.,2017,Equity and Fixed Income,40,98.26805982995886,2
+Quantum Systems Inc.,2017,Equity and Fixed Income,68,50,4
+Quantum Systems Inc.,2017,Currency Management,7,50,5
+Quantum Systems Inc.,2018,Hedge Fund Services,67,83.79912894312693,2
+Quantum Systems Inc.,2018,Digital Assets,80,50,4
+Quantum Systems Inc.,2018,Digital Assets,34,50,1
+Quantum Systems Inc.,2018,Equity and Fixed Income,44,64.0725783172138,1
+Quantum Systems Inc.,2018,Advisory Services,80,50,3
+Quantum Systems Inc.,2019,Advisory Services,80,50,4
+Quantum Systems Inc.,2019,NAV Calculation,75,50,3
+Quantum Systems Inc.,2019,Trade Settlements,87,50,4
+Quantum Systems Inc.,2019,Hedge Fund Services,74,50,2
+Quantum Systems Inc.,2019,Equity and Fixed Income,42,100,1
+Quantum Systems Inc.,2019,Digital Assets,9,50,2
+Quantum Systems Inc.,2020,Custody,97,100,5
+Quantum Systems Inc.,2020,Advisory Services,90,50,3
+Quantum Systems Inc.,2020,Trade Settlements,73,50,3
+Quantum Systems Inc.,2020,Currency Management,48,50,1
+Quantum Systems Inc.,2020,Trade Settlements,12,100,5
+Quantum Systems Inc.,2020,Security Finances,60,70.0530147618657,5
+Quantum Systems Inc.,2020,NAV Calculation,21,100,1
+Quantum Systems Inc.,2020,Custody,55,60.12738616094484,3
+Quantum Systems Inc.,2021,Digital Assets,98,50,1
+Quantum Systems Inc.,2021,Trade Settlements,83,98.95141967711977,4
+Quantum Systems Inc.,2021,Digital Assets,28,100,3
+Quantum Systems Inc.,2021,Multi Asset Class Sol,75,50,1
+Quantum Systems Inc.,2022,Trade Settlements,18,50,1
+Quantum Systems Inc.,2022,Digital Assets,68,98.93805341062257,5
+Quantum Systems Inc.,2022,Hedge Fund Services,78,50,3
+Quantum Systems Inc.,2022,Trade Settlements,1,100,5
+Quantum Systems Inc.,2022,Security Finances,35,76.43599688701886,2
+Quantum Systems Inc.,2022,Security Finances,2,65.59594975275708,5
+Stellar Services,2010,Trade Settlements,86,54.53183481483202,5
+Stellar Services,2010,Currency Management,43,50,2
+Stellar Services,2010,Currency Management,52,100,3
+Stellar Services,2010,Digital Assets,18,96.85572226342023,5
+Stellar Services,2010,Equity and Fixed Income,60,50,3
+Stellar Services,2010,NAV Calculation,12,50,5
+Stellar Services,2010,NAV Calculation,65,100,2
+Stellar Services,2010,Hedge Fund Services,58,50,3
+Stellar Services,2010,NAV Calculation,25,65.08674135385975,1
+Stellar Services,2010,Security Finances,64,50,1
+Stellar Services,2011,Security Finances,25,50,2
+Stellar Services,2011,Security Finances,86,50,3
+Stellar Services,2011,Digital Assets,14,50,4
+Stellar Services,2011,Trade Settlements,76,50,4
+Stellar Services,2011,NAV Calculation,62,50,2
+Stellar Services,2011,Digital Assets,46,100,5
+Stellar Services,2012,Currency Management,19,100,1
+Stellar Services,2012,Hedge Fund Services,82,62.07494245133532,1
+Stellar Services,2012,Equity and Fixed Income,90,82.87539265522216,2
+Stellar Services,2012,Equity and Fixed Income,65,100,1
+Stellar Services,2012,Currency Management,96,70.35218414837968,4
+Stellar Services,2012,Hedge Fund Services,58,100,4
+Stellar Services,2012,Hedge Fund Services,85,59.183923778292765,4
+Stellar Services,2012,Equity and Fixed Income,17,100,4
+Stellar Services,2012,Hedge Fund Services,54,84.42404302215627,1
+Stellar Services,2013,Custody,27,60.745843220784415,2
+Stellar Services,2013,Trade Settlements,67,100,3
+Stellar Services,2013,Multi Asset Class Sol,54,50,3
+Stellar Services,2013,Advisory Services,75,68.60219618958604,5
+Stellar Services,2013,Digital Assets,93,100,5
+Stellar Services,2013,Custody,57,100,2
+Stellar Services,2013,Trade Settlements,4,100,1
+Stellar Services,2013,NAV Calculation,7,68.14369820918317,1
+Stellar Services,2013,Custody,5,50,3
+Stellar Services,2013,Currency Management,85,50,1
+Stellar Services,2014,Digital Assets,28,50,3
+Stellar Services,2014,Digital Assets,50,94.98958593005081,1
+Stellar Services,2014,Hedge Fund Services,79,50.992567199577515,4
+Stellar Services,2014,Currency Management,47,50,4
+Stellar Services,2014,Custody,76,50,1
+Stellar Services,2014,NAV Calculation,76,95.32451287594299,5
+Stellar Services,2015,Currency Management,48,87.30741889306412,5
+Stellar Services,2015,Security Finances,69,62.83893883594277,4
+Stellar Services,2015,Equity and Fixed Income,45,100,5
+Stellar Services,2015,Digital Assets,61,64.67800466208891,2
+Stellar Services,2015,Advisory Services,64,100,4
+Stellar Services,2015,Multi Asset Class Sol,28,95.07150101473783,3
+Stellar Services,2015,Digital Assets,25,74.98320541204666,5
+Stellar Services,2015,Security Finances,29,50,1
+Stellar Services,2016,Multi Asset Class Sol,43,56.63975168089003,3
+Stellar Services,2016,Currency Management,82,51.307005995070554,5
+Stellar Services,2016,Equity and Fixed Income,74,61.454148457631845,1
+Stellar Services,2016,Digital Assets,9,100,5
+Stellar Services,2016,Trade Settlements,49,60.38439642060901,1
+Stellar Services,2016,Advisory Services,67,50.95514246934176,3
+Stellar Services,2016,NAV Calculation,34,83.31415083897653,3
+Stellar Services,2016,Trade Settlements,89,50,5
+Stellar Services,2016,Hedge Fund Services,79,86.31817008142562,5
+Stellar Services,2017,Trade Settlements,37,100,5
+Stellar Services,2017,NAV Calculation,47,91.82357663272087,5
+Stellar Services,2017,NAV Calculation,91,100,5
+Stellar Services,2018,Security Finances,80,100,3
+Stellar Services,2018,Trade Settlements,62,70.53679475614898,5
+Stellar Services,2018,NAV Calculation,21,63.49392020339916,4
+Stellar Services,2018,NAV Calculation,92,100,4
+Stellar Services,2018,Equity and Fixed Income,38,99.43138876238498,5
+Stellar Services,2018,Trade Settlements,92,83.92049833880927,5
+Stellar Services,2018,Security Finances,32,100,1
+Stellar Services,2018,Multi Asset Class Sol,9,50,3
+Stellar Services,2019,NAV Calculation,12,100,5
+Stellar Services,2019,Multi Asset Class Sol,37,50,1
+Stellar Services,2019,Security Finances,28,86.55000619664393,4
+Stellar Services,2019,Hedge Fund Services,9,50,2
+Stellar Services,2019,Advisory Services,47,50,4
+Stellar Services,2019,Advisory Services,99,100,5
+Stellar Services,2020,Custody,99,100,2
+Stellar Services,2020,Advisory Services,22,50,2
+Stellar Services,2021,Hedge Fund Services,74,95.70110242518747,2
+Stellar Services,2021,NAV Calculation,96,56.389184533537545,4
+Stellar Services,2021,NAV Calculation,5,85.72900224289079,2
+Stellar Services,2021,Digital Assets,100,57.30352694672037,1
+Stellar Services,2022,Advisory Services,35,58.04593331097036,4
+Stellar Services,2022,NAV Calculation,29,55.58927817804014,3
+Stellar Services,2022,Multi Asset Class Sol,66,50,4
+Stellar Services,2022,Trade Settlements,74,94.21362480534398,2
+Stellar Services,2022,Multi Asset Class Sol,21,50,1
+Stellar Services,2022,Security Finances,70,74.56626608795128,2
+OptiTech Solutions,2010,NAV Calculation,72,50,1
+OptiTech Solutions,2010,Security Finances,20,50,4
+OptiTech Solutions,2011,Advisory Services,66,81.18320534026434,5
+OptiTech Solutions,2011,Equity and Fixed Income,80,62.34275858332384,2
+OptiTech Solutions,2011,NAV Calculation,37,50,4
+OptiTech Solutions,2011,Custody,12,50,3
+OptiTech Solutions,2011,Trade Settlements,64,61.867054536259246,5
+OptiTech Solutions,2011,Advisory Services,96,50,5
+OptiTech Solutions,2011,Currency Management,44,50,1
+OptiTech Solutions,2012,Equity and Fixed Income,4,78.1229020595221,5
+OptiTech Solutions,2012,Custody,85,56.47404244670581,3
+OptiTech Solutions,2012,NAV Calculation,43,66.20066326566402,1
+OptiTech Solutions,2012,Advisory Services,48,50,4
+OptiTech Solutions,2012,Trade Settlements,77,50,3
+OptiTech Solutions,2012,Digital Assets,25,50,2
+OptiTech Solutions,2012,Hedge Fund Services,27,50,5
+OptiTech Solutions,2012,Trade Settlements,21,89.85319441579828,3
+OptiTech Solutions,2012,Multi Asset Class Sol,50,50,1
+OptiTech Solutions,2012,NAV Calculation,93,50,2
+OptiTech Solutions,2013,Hedge Fund Services,87,74.46076513070552,4
+OptiTech Solutions,2013,Advisory Services,5,50,1
+OptiTech Solutions,2013,Digital Assets,10,91.14683368154277,4
+OptiTech Solutions,2013,Digital Assets,29,59.567736228955155,2
+OptiTech Solutions,2013,Custody,72,50,1
+OptiTech Solutions,2013,Hedge Fund Services,40,50,4
+OptiTech Solutions,2013,Multi Asset Class Sol,52,50,5
+OptiTech Solutions,2014,Hedge Fund Services,88,50,5
+OptiTech Solutions,2014,Currency Management,33,50,2
+OptiTech Solutions,2014,Security Finances,86,93.8448126992548,1
+OptiTech Solutions,2015,Multi Asset Class Sol,40,77.9026407009447,2
+OptiTech Solutions,2015,Security Finances,57,100,1
+OptiTech Solutions,2015,Hedge Fund Services,91,100,1
+OptiTech Solutions,2015,Hedge Fund Services,61,100,5
+OptiTech Solutions,2016,Multi Asset Class Sol,88,88.90464943290908,5
+OptiTech Solutions,2016,NAV Calculation,85,100,4
+OptiTech Solutions,2016,Security Finances,30,100,3
+OptiTech Solutions,2016,Hedge Fund Services,55,100,1
+OptiTech Solutions,2016,Advisory Services,93,100,3
+OptiTech Solutions,2017,Digital Assets,29,87.83043744638576,1
+OptiTech Solutions,2017,Hedge Fund Services,9,100,5
+OptiTech Solutions,2017,Hedge Fund Services,48,100,4
+OptiTech Solutions,2017,Trade Settlements,92,100,4
+OptiTech Solutions,2017,NAV Calculation,92,50,5
+OptiTech Solutions,2017,Equity and Fixed Income,3,100,5
+OptiTech Solutions,2017,Advisory Services,6,52.48206425825755,1
+OptiTech Solutions,2018,Digital Assets,2,57.580662813207354,2
+OptiTech Solutions,2018,Trade Settlements,65,50,1
+OptiTech Solutions,2018,Security Finances,77,57.815408556250986,5
+OptiTech Solutions,2018,Trade Settlements,100,50,2
+OptiTech Solutions,2018,Digital Assets,43,94.12273219975846,1
+OptiTech Solutions,2018,Multi Asset Class Sol,75,52.2555285601286,1
+OptiTech Solutions,2018,Custody,88,50,1
+OptiTech Solutions,2018,Custody,59,50,1
+OptiTech Solutions,2018,Multi Asset Class Sol,52,50,3
+OptiTech Solutions,2019,Trade Settlements,54,82.59566188255494,4
+OptiTech Solutions,2019,Multi Asset Class Sol,32,50,4
+OptiTech Solutions,2019,Currency Management,50,53.296416937379405,3
+OptiTech Solutions,2020,Multi Asset Class Sol,97,50,4
+OptiTech Solutions,2020,Equity and Fixed Income,20,81.1759217196271,5
+OptiTech Solutions,2020,Currency Management,29,95.90632651834551,3
+OptiTech Solutions,2020,Advisory Services,97,76.64649434311121,3
+OptiTech Solutions,2020,Advisory Services,42,50,2
+OptiTech Solutions,2020,Security Finances,35,58.089630167954084,2
+OptiTech Solutions,2020,Equity and Fixed Income,8,50,5
+OptiTech Solutions,2021,Security Finances,39,50,4
+OptiTech Solutions,2021,Digital Assets,94,50,3
+OptiTech Solutions,2021,NAV Calculation,60,85.67447351033658,3
+OptiTech Solutions,2021,Trade Settlements,5,60.779600960660204,3
+OptiTech Solutions,2021,Digital Assets,5,95.92004265603539,3
+OptiTech Solutions,2021,Equity and Fixed Income,63,58.358770356300965,3
+OptiTech Solutions,2021,NAV Calculation,78,50,1
+OptiTech Solutions,2021,Multi Asset Class Sol,1,50,5
+OptiTech Solutions,2022,Currency Management,94,50,2
+OptiTech Solutions,2022,Multi Asset Class Sol,57,51.091629153330466,5
+OptiTech Solutions,2022,Hedge Fund Services,32,100,3
+OptiTech Solutions,2022,Security Finances,62,66.67169640353438,4
+OptiTech Solutions,2022,Currency Management,55,100,3
+OptiTech Solutions,2022,NAV Calculation,22,50,4
+OptiTech Solutions,2022,Currency Management,70,100,3
+OptiTech Solutions,2022,NAV Calculation,98,50,4
+OptiTech Solutions,2022,Trade Settlements,22,50,1
+BrightWave Technologies,2010,NAV Calculation,69,72.65899074961494,1
+BrightWave Technologies,2011,NAV Calculation,50,50,2
+BrightWave Technologies,2011,Currency Management,4,50,1
+BrightWave Technologies,2011,Security Finances,79,97.61275344322473,4
+BrightWave Technologies,2011,NAV Calculation,33,56.97849320625581,3
+BrightWave Technologies,2011,Equity and Fixed Income,44,100,4
+BrightWave Technologies,2012,Security Finances,21,90.16791198374844,1
+BrightWave Technologies,2012,Trade Settlements,34,81.53111847344094,1
+BrightWave Technologies,2012,Multi Asset Class Sol,94,98.29505136786099,5
+BrightWave Technologies,2013,Trade Settlements,86,100,1
+BrightWave Technologies,2013,NAV Calculation,63,100,4
+BrightWave Technologies,2014,Security Finances,25,100,4
+BrightWave Technologies,2014,Digital Assets,49,97.6744535637873,2
+BrightWave Technologies,2014,NAV Calculation,36,100,4
+BrightWave Technologies,2014,NAV Calculation,13,84.30675804814238,1
+BrightWave Technologies,2014,Digital Assets,36,50,1
+BrightWave Technologies,2014,Custody,43,95.71971898889907,2
+BrightWave Technologies,2015,Multi Asset Class Sol,1,100,3
+BrightWave Technologies,2015,Custody,50,74.76073021829677,2
+BrightWave Technologies,2015,Currency Management,42,100,3
+BrightWave Technologies,2015,Digital Assets,43,100,3
+BrightWave Technologies,2015,NAV Calculation,5,100,2
+BrightWave Technologies,2015,Trade Settlements,95,100,5
+BrightWave Technologies,2015,Equity and Fixed Income,77,100,2
+BrightWave Technologies,2016,Advisory Services,35,96.79269591860022,1
+BrightWave Technologies,2016,Equity and Fixed Income,20,74.38640468021858,2
+BrightWave Technologies,2016,Custody,67,100,4
+BrightWave Technologies,2016,Security Finances,85,100,2
+BrightWave Technologies,2016,Custody,93,77.782336856896,5
+BrightWave Technologies,2016,Multi Asset Class Sol,29,67.13887717793911,3
+BrightWave Technologies,2016,Advisory Services,20,98.24189216757527,1
+BrightWave Technologies,2017,Security Finances,52,96.15925837034926,4
+BrightWave Technologies,2017,Digital Assets,34,68.5198342002412,1
+BrightWave Technologies,2017,NAV Calculation,78,83.64949699491494,5
+BrightWave Technologies,2017,Security Finances,88,100,2
+BrightWave Technologies,2018,NAV Calculation,41,50,3
+BrightWave Technologies,2019,Hedge Fund Services,20,74.20869868563508,4
+BrightWave Technologies,2019,Digital Assets,27,82.91079830276047,5
+BrightWave Technologies,2019,NAV Calculation,56,91.13307649139469,1
+BrightWave Technologies,2019,Trade Settlements,38,68.07361256799256,4
+BrightWave Technologies,2019,Equity and Fixed Income,4,88.89157760407002,1
+BrightWave Technologies,2019,NAV Calculation,3,50,4
+BrightWave Technologies,2019,Hedge Fund Services,57,50,3
+BrightWave Technologies,2020,Custody,57,81.11601362802001,5
+BrightWave Technologies,2020,Custody,71,50,1
+BrightWave Technologies,2020,Equity and Fixed Income,74,100,1
+BrightWave Technologies,2020,Security Finances,4,69.99922231014729,1
+BrightWave Technologies,2020,Hedge Fund Services,78,50,4
+BrightWave Technologies,2020,Digital Assets,41,50,4
+BrightWave Technologies,2020,Currency Management,9,69.76705856843762,4
+BrightWave Technologies,2021,Security Finances,35,50,3
+BrightWave Technologies,2021,Equity and Fixed Income,63,78.1969388768136,5
+BrightWave Technologies,2021,Currency Management,71,65.92891680928483,2
+BrightWave Technologies,2021,Custody,9,100,2
+BrightWave Technologies,2021,Multi Asset Class Sol,82,50,4
+BrightWave Technologies,2021,Custody,28,100,4
+BrightWave Technologies,2021,Currency Management,35,83.02794081881986,5
+BrightWave Technologies,2021,Hedge Fund Services,90,63.567023683341034,2
+BrightWave Technologies,2022,Security Finances,2,50,4
+Vertex Enterprises,2010,Trade Settlements,66,50.466064117217876,5
+Vertex Enterprises,2010,Custody,89,100,4
+Vertex Enterprises,2010,Digital Assets,95,100,2
+Vertex Enterprises,2010,NAV Calculation,67,50,2
+Vertex Enterprises,2010,Currency Management,85,50,5
+Vertex Enterprises,2010,Security Finances,42,50,5
+Vertex Enterprises,2010,Equity and Fixed Income,58,72.39733466998857,4
+Vertex Enterprises,2010,Currency Management,17,100,2
+Vertex Enterprises,2011,Equity and Fixed Income,10,68.17620691718497,3
+Vertex Enterprises,2011,Multi Asset Class Sol,17,55.83761028076564,1
+Vertex Enterprises,2011,Currency Management,42,100,4
+Vertex Enterprises,2012,NAV Calculation,52,64.25354532287821,4
+Vertex Enterprises,2012,NAV Calculation,34,100,5
+Vertex Enterprises,2012,Hedge Fund Services,53,100,4
+Vertex Enterprises,2012,Digital Assets,23,92.8052386970694,1
+Vertex Enterprises,2012,Hedge Fund Services,92,100,1
+Vertex Enterprises,2012,Equity and Fixed Income,84,100,2
+Vertex Enterprises,2012,Currency Management,83,100,2
+Vertex Enterprises,2012,Currency Management,90,87.91346133449215,2
+Vertex Enterprises,2012,Advisory Services,55,81.4315123780847,1
+Vertex Enterprises,2012,Currency Management,49,52.259687922265385,5
+Vertex Enterprises,2013,Advisory Services,96,50,3
+Vertex Enterprises,2013,Security Finances,22,66.38175830493621,3
+Vertex Enterprises,2013,Trade Settlements,89,50,3
+Vertex Enterprises,2013,Equity and Fixed Income,78,50,2
+Vertex Enterprises,2014,Advisory Services,43,50,4
+Vertex Enterprises,2014,Security Finances,98,50,3
+Vertex Enterprises,2014,Advisory Services,16,50,3
+Vertex Enterprises,2014,Trade Settlements,51,66.2809631881581,5
+Vertex Enterprises,2014,Advisory Services,77,77.66572806004912,5
+Vertex Enterprises,2015,Security Finances,62,61.859900870500766,2
+Vertex Enterprises,2015,Hedge Fund Services,51,85.73674061613362,5
+Vertex Enterprises,2015,Currency Management,24,100,5
+Vertex Enterprises,2015,Digital Assets,32,50,4
+Vertex Enterprises,2015,Digital Assets,72,100,1
+Vertex Enterprises,2015,Security Finances,42,50,5
+Vertex Enterprises,2015,Equity and Fixed Income,10,50,1
+Vertex Enterprises,2015,Custody,49,100,2
+Vertex Enterprises,2016,Currency Management,91,76.61580623124634,5
+Vertex Enterprises,2016,Currency Management,55,97.4183310441333,1
+Vertex Enterprises,2016,Multi Asset Class Sol,15,74.1146792038644,3
+Vertex Enterprises,2016,Security Finances,68,50,4
+Vertex Enterprises,2016,Multi Asset Class Sol,10,54.79958628399979,5
+Vertex Enterprises,2016,Security Finances,13,100,1
+Vertex Enterprises,2016,Custody,62,100,3
+Vertex Enterprises,2016,Digital Assets,59,80.13111896735089,2
+Vertex Enterprises,2016,Hedge Fund Services,45,50,2
+Vertex Enterprises,2016,Equity and Fixed Income,11,100,5
+Vertex Enterprises,2017,Digital Assets,62,100,5
+Vertex Enterprises,2017,NAV Calculation,87,58.2173957991735,5
+Vertex Enterprises,2017,Currency Management,98,91.66936692834844,3
+Vertex Enterprises,2017,Advisory Services,74,95.92176856967929,2
+Vertex Enterprises,2017,Currency Management,7,83.58991144430574,5
+Vertex Enterprises,2017,Digital Assets,8,50,2
+Vertex Enterprises,2017,Security Finances,40,100,3
+Vertex Enterprises,2017,Advisory Services,88,100,1
+Vertex Enterprises,2018,Security Finances,59,100,2
+Vertex Enterprises,2018,Digital Assets,50,90.4416671272225,3
+Vertex Enterprises,2018,Currency Management,68,73.54960362541627,3
+Vertex Enterprises,2018,Trade Settlements,33,100,2
+Vertex Enterprises,2019,Digital Assets,70,100,1
+Vertex Enterprises,2019,Trade Settlements,20,100,5
+Vertex Enterprises,2019,Currency Management,6,93.59116359633455,1
+Vertex Enterprises,2019,Equity and Fixed Income,73,100,3
+Vertex Enterprises,2019,Digital Assets,86,100,2
+Vertex Enterprises,2020,Advisory Services,91,50.21673422903832,3
+Vertex Enterprises,2020,Hedge Fund Services,66,100,3
+Vertex Enterprises,2020,Hedge Fund Services,35,90.15962966009054,4
+Vertex Enterprises,2020,NAV Calculation,96,100,1
+Vertex Enterprises,2021,Equity and Fixed Income,26,100,5
+Vertex Enterprises,2021,Hedge Fund Services,66,98.59871419543258,5
+Vertex Enterprises,2022,Currency Management,56,50,3
+Vertex Enterprises,2022,Equity and Fixed Income,44,100,1
+Vertex Enterprises,2022,Equity and Fixed Income,14,87.94193416388214,4
+Vertex Enterprises,2022,NAV Calculation,51,100,4
+Vertex Enterprises,2022,Trade Settlements,87,100,3
+Vertex Enterprises,2022,Multi Asset Class Sol,20,73.91150413129571,2
+Alpha Omega Labs,2010,Currency Management,59,57.540658714560905,4
+Alpha Omega Labs,2010,Custody,41,71.12586395670117,2
+Alpha Omega Labs,2010,Currency Management,3,100,3
+Alpha Omega Labs,2010,Equity and Fixed Income,65,50,1
+Alpha Omega Labs,2010,Advisory Services,95,94.2340376866456,4
+Alpha Omega Labs,2010,Security Finances,61,59.003540902926446,5
+Alpha Omega Labs,2010,Security Finances,33,50,3
+Alpha Omega Labs,2011,Security Finances,10,65.1383969492945,4
+Alpha Omega Labs,2011,Trade Settlements,13,57.44426526296222,5
+Alpha Omega Labs,2011,Multi Asset Class Sol,58,50,4
+Alpha Omega Labs,2011,Hedge Fund Services,89,67.87002692499955,5
+Alpha Omega Labs,2011,Currency Management,7,50,4
+Alpha Omega Labs,2011,Hedge Fund Services,98,59.69075065924915,4
+Alpha Omega Labs,2011,Equity and Fixed Income,32,53.76024223262452,4
+Alpha Omega Labs,2011,Multi Asset Class Sol,98,50,1
+Alpha Omega Labs,2011,Custody,7,100,1
+Alpha Omega Labs,2012,Hedge Fund Services,87,100,5
+Alpha Omega Labs,2012,Equity and Fixed Income,44,94.77847211458099,4
+Alpha Omega Labs,2012,Digital Assets,58,50,4
+Alpha Omega Labs,2012,Equity and Fixed Income,35,67.6357796848072,3
+Alpha Omega Labs,2012,Hedge Fund Services,78,98.62111290947988,5
+Alpha Omega Labs,2012,NAV Calculation,75,100,3
+Alpha Omega Labs,2012,Multi Asset Class Sol,45,100,5
+Alpha Omega Labs,2012,Multi Asset Class Sol,6,97.924198652076,3
+Alpha Omega Labs,2012,Advisory Services,83,93.44132855117579,2
+Alpha Omega Labs,2013,Equity and Fixed Income,65,95.23844108825784,3
+Alpha Omega Labs,2013,Trade Settlements,23,50,3
+Alpha Omega Labs,2013,Hedge Fund Services,75,81.5938344514276,4
+Alpha Omega Labs,2013,NAV Calculation,70,91.72336314804079,3
+Alpha Omega Labs,2013,Advisory Services,21,71.45036185411135,4
+Alpha Omega Labs,2014,Hedge Fund Services,89,50,3
+Alpha Omega Labs,2014,Multi Asset Class Sol,93,100,4
+Alpha Omega Labs,2014,Currency Management,24,100,1
+Alpha Omega Labs,2014,Digital Assets,17,100,2
+Alpha Omega Labs,2014,Equity and Fixed Income,68,100,3
+Alpha Omega Labs,2015,Equity and Fixed Income,17,50.52727008476818,1
+Alpha Omega Labs,2015,Equity and Fixed Income,47,50,5
+Alpha Omega Labs,2015,Trade Settlements,38,100,1
+Alpha Omega Labs,2015,Hedge Fund Services,59,65.1409735963143,2
+Alpha Omega Labs,2015,Currency Management,50,100,3
+Alpha Omega Labs,2015,Advisory Services,98,100,1
+Alpha Omega Labs,2015,Custody,2,100,2
+Alpha Omega Labs,2015,Trade Settlements,24,50.13834862528691,5
+Alpha Omega Labs,2015,Security Finances,44,50,4
+Alpha Omega Labs,2015,Custody,32,98.8867395465563,5
+Alpha Omega Labs,2016,Currency Management,40,50,4
+Alpha Omega Labs,2016,Currency Management,25,100,2
+Alpha Omega Labs,2016,Multi Asset Class Sol,16,87.94347597533053,4
+Alpha Omega Labs,2016,Hedge Fund Services,13,50,1
+Alpha Omega Labs,2016,Security Finances,75,100,3
+Alpha Omega Labs,2016,Equity and Fixed Income,68,100,3
+Alpha Omega Labs,2016,Multi Asset Class Sol,71,100,5
+Alpha Omega Labs,2016,Security Finances,24,98.76212591719172,4
+Alpha Omega Labs,2016,Advisory Services,83,100,3
+Alpha Omega Labs,2016,Advisory Services,47,79.79637855992182,3
+Alpha Omega Labs,2017,Security Finances,14,79.59101340703012,2
+Alpha Omega Labs,2017,Equity and Fixed Income,2,94.55782600625766,4
+Alpha Omega Labs,2017,Advisory Services,4,50,5
+Alpha Omega Labs,2017,Trade Settlements,93,100,3
+Alpha Omega Labs,2017,Trade Settlements,8,50.25535470057858,1
+Alpha Omega Labs,2017,Security Finances,92,100,3
+Alpha Omega Labs,2017,Custody,23,87.21811096996416,2
+Alpha Omega Labs,2017,Custody,11,100,1
+Alpha Omega Labs,2018,Currency Management,88,86.25041817219498,1
+Alpha Omega Labs,2018,Security Finances,49,76.37114098481938,4
+Alpha Omega Labs,2018,Currency Management,82,100,3
+Alpha Omega Labs,2018,Currency Management,23,100,3
+Alpha Omega Labs,2018,Trade Settlements,24,100,5
+Alpha Omega Labs,2018,Custody,4,88.9761143983051,4
+Alpha Omega Labs,2018,NAV Calculation,63,100,4
+Alpha Omega Labs,2018,Digital Assets,66,92.2880221154078,1
+Alpha Omega Labs,2018,NAV Calculation,82,65.51858306033898,4
+Alpha Omega Labs,2019,Trade Settlements,36,50,1
+Alpha Omega Labs,2019,Trade Settlements,13,100,4
+Alpha Omega Labs,2019,Equity and Fixed Income,63,100,5
+Alpha Omega Labs,2019,NAV Calculation,5,50,2
+Alpha Omega Labs,2019,Digital Assets,15,50,4
+Alpha Omega Labs,2019,Advisory Services,44,50,2
+Alpha Omega Labs,2019,Digital Assets,86,61.84784963563073,4
+Alpha Omega Labs,2019,Hedge Fund Services,33,50,2
+Alpha Omega Labs,2020,Hedge Fund Services,21,52.066315888284464,2
+Alpha Omega Labs,2020,Security Finances,61,81.18935329742641,4
+Alpha Omega Labs,2020,Digital Assets,71,100,5
+Alpha Omega Labs,2020,Hedge Fund Services,68,50,3
+Alpha Omega Labs,2020,Hedge Fund Services,17,50,5
+Alpha Omega Labs,2020,Currency Management,58,65.63894573021092,1
+Alpha Omega Labs,2020,Advisory Services,43,50,1
+Alpha Omega Labs,2020,Advisory Services,59,50,4
+Alpha Omega Labs,2020,Security Finances,27,50,5
+Alpha Omega Labs,2021,Security Finances,21,51.2225215957012,5
+Alpha Omega Labs,2021,Multi Asset Class Sol,16,63.93308728527222,2
+Alpha Omega Labs,2021,Trade Settlements,40,100,5
+Alpha Omega Labs,2021,Advisory Services,91,50,4
+Alpha Omega Labs,2021,Equity and Fixed Income,18,98.78939756137791,2
+Alpha Omega Labs,2021,Advisory Services,58,50,5
+Alpha Omega Labs,2021,Multi Asset Class Sol,98,86.16819079338201,3
+Alpha Omega Labs,2021,Digital Assets,90,50,1
+Alpha Omega Labs,2021,Multi Asset Class Sol,85,50,3
+Alpha Omega Labs,2021,Security Finances,67,97.0332712735937,5
+Alpha Omega Labs,2022,Equity and Fixed Income,25,50,2
+Alpha Omega Labs,2022,Custody,82,100,1
+Alpha Omega Labs,2022,Multi Asset Class Sol,1,100,5
+EcoFusion Energy,2010,Equity and Fixed Income,13,89.38483039280464,1
+EcoFusion Energy,2010,NAV Calculation,68,100,2
+EcoFusion Energy,2010,Equity and Fixed Income,90,100,4
+EcoFusion Energy,2010,Advisory Services,56,51.897151007738096,5
+EcoFusion Energy,2010,Currency Management,57,53.121529162827585,4
+EcoFusion Energy,2010,Multi Asset Class Sol,27,53.14470160497385,5
+EcoFusion Energy,2010,Digital Assets,54,100,4
+EcoFusion Energy,2010,Digital Assets,49,100,2
+EcoFusion Energy,2010,Equity and Fixed Income,59,57.2452152592173,5
+EcoFusion Energy,2010,Trade Settlements,17,80.00582654197136,3
+EcoFusion Energy,2011,Digital Assets,76,54.755609758325164,3
+EcoFusion Energy,2011,Digital Assets,90,60.6188584427437,2
+EcoFusion Energy,2012,Security Finances,28,69.83979695482572,3
+EcoFusion Energy,2013,Digital Assets,4,79.4264029788703,4
+EcoFusion Energy,2013,Trade Settlements,2,100,4
+EcoFusion Energy,2013,Security Finances,84,75.1003725891379,3
+EcoFusion Energy,2013,Advisory Services,74,67.63912180061237,5
+EcoFusion Energy,2013,Hedge Fund Services,16,65.81015609133388,1
+EcoFusion Energy,2014,Multi Asset Class Sol,67,50,1
+EcoFusion Energy,2014,Currency Management,88,51.557615749567375,1
+EcoFusion Energy,2014,NAV Calculation,36,73.41766535218488,3
+EcoFusion Energy,2014,Hedge Fund Services,82,55.69240064600111,5
+EcoFusion Energy,2015,Advisory Services,57,93.8211953639861,2
+EcoFusion Energy,2015,NAV Calculation,81,66.78718526924237,3
+EcoFusion Energy,2015,NAV Calculation,3,52.54589716372981,2
+EcoFusion Energy,2015,Digital Assets,54,50,1
+EcoFusion Energy,2015,Security Finances,6,50,5
+EcoFusion Energy,2015,Digital Assets,34,50,3
+EcoFusion Energy,2015,Currency Management,36,50,5
+EcoFusion Energy,2015,Trade Settlements,50,100,4
+EcoFusion Energy,2015,Digital Assets,60,50,3
+EcoFusion Energy,2016,Digital Assets,8,50,4
+EcoFusion Energy,2016,NAV Calculation,28,64.46574066308334,5
+EcoFusion Energy,2016,Trade Settlements,15,50,4
+EcoFusion Energy,2016,Digital Assets,29,93.93258738880597,5
+EcoFusion Energy,2016,Security Finances,28,72.49716319166954,1
+EcoFusion Energy,2016,Digital Assets,11,100,3
+EcoFusion Energy,2016,Trade Settlements,37,100,5
+EcoFusion Energy,2016,Hedge Fund Services,71,50,3
+EcoFusion Energy,2017,Equity and Fixed Income,46,100,5
+EcoFusion Energy,2017,Custody,89,50,4
+EcoFusion Energy,2017,Trade Settlements,81,93.06278952132682,5
+EcoFusion Energy,2017,Trade Settlements,62,91.22536186401558,5
+EcoFusion Energy,2017,NAV Calculation,85,59.471515973114876,5
+EcoFusion Energy,2017,Equity and Fixed Income,60,100,3
+EcoFusion Energy,2017,NAV Calculation,82,100,1
+EcoFusion Energy,2017,NAV Calculation,77,57.8477354250893,1
+EcoFusion Energy,2018,Currency Management,68,95.85000040875862,2
+EcoFusion Energy,2018,Digital Assets,39,50,1
+EcoFusion Energy,2018,Advisory Services,17,50,3
+EcoFusion Energy,2018,Currency Management,87,100,2
+EcoFusion Energy,2018,Multi Asset Class Sol,1,50,5
+EcoFusion Energy,2019,Custody,73,100,1
+EcoFusion Energy,2019,Equity and Fixed Income,99,76.49587816159497,4
+EcoFusion Energy,2020,Digital Assets,35,50,3
+EcoFusion Energy,2020,Digital Assets,26,100,2
+EcoFusion Energy,2020,NAV Calculation,26,89.15425507330295,1
+EcoFusion Energy,2020,Trade Settlements,56,63.46066347952144,2
+EcoFusion Energy,2021,Security Finances,57,100,1
+EcoFusion Energy,2021,Trade Settlements,80,60.494398272045366,1
+EcoFusion Energy,2021,Advisory Services,66,50,5
+EcoFusion Energy,2022,Multi Asset Class Sol,78,54.309127079968064,2
+EcoFusion Energy,2022,Trade Settlements,74,50,5
+EcoFusion Energy,2022,Security Finances,91,50,2
+EcoFusion Energy,2022,Hedge Fund Services,45,50,4
+EcoFusion Energy,2022,Multi Asset Class Sol,1,50,5
+EcoFusion Energy,2022,NAV Calculation,5,50,5
+EcoFusion Energy,2022,Multi Asset Class Sol,54,50,4
+BlueSky Innovations,2010,Multi Asset Class Sol,83,100,3
+BlueSky Innovations,2011,Equity and Fixed Income,100,100,2
+BlueSky Innovations,2011,Digital Assets,11,100,3
+BlueSky Innovations,2011,Multi Asset Class Sol,100,86.61187033540847,4
+BlueSky Innovations,2011,Currency Management,96,68.05631378109828,4
+BlueSky Innovations,2011,Trade Settlements,30,50,3
+BlueSky Innovations,2011,Equity and Fixed Income,67,77.36680362698256,5
+BlueSky Innovations,2011,Currency Management,98,100,2
+BlueSky Innovations,2012,Multi Asset Class Sol,60,100,4
+BlueSky Innovations,2012,Security Finances,34,83.15442104534938,3
+BlueSky Innovations,2013,Multi Asset Class Sol,32,86.34776460574946,2
+BlueSky Innovations,2013,NAV Calculation,41,100,4
+BlueSky Innovations,2013,NAV Calculation,73,52.49776998190114,1
+BlueSky Innovations,2013,Digital Assets,33,59.225451158415304,2
+BlueSky Innovations,2013,Currency Management,37,100,5
+BlueSky Innovations,2013,Security Finances,47,100,2
+BlueSky Innovations,2013,Advisory Services,100,50,5
+BlueSky Innovations,2013,Trade Settlements,97,91.95351064272027,5
+BlueSky Innovations,2013,Digital Assets,33,100,5
+BlueSky Innovations,2013,Advisory Services,37,100,4
+BlueSky Innovations,2014,Hedge Fund Services,100,100,2
+BlueSky Innovations,2014,Advisory Services,1,68.18338594265404,5
+BlueSky Innovations,2014,Currency Management,30,58.355616908878325,3
+BlueSky Innovations,2014,Advisory Services,17,100,4
+BlueSky Innovations,2015,Trade Settlements,65,97.64215656153888,4
+BlueSky Innovations,2015,Multi Asset Class Sol,55,92.61533539784949,5
+BlueSky Innovations,2015,Trade Settlements,73,100,2
+BlueSky Innovations,2015,Hedge Fund Services,81,100,5
+BlueSky Innovations,2015,Security Finances,17,55.496514076295504,3
+BlueSky Innovations,2015,Advisory Services,80,61.51205911577632,1
+BlueSky Innovations,2016,Advisory Services,7,58.84517485915418,3
+BlueSky Innovations,2016,NAV Calculation,17,56.40190736401115,4
+BlueSky Innovations,2016,Currency Management,51,62.312561512974604,5
+BlueSky Innovations,2016,Equity and Fixed Income,65,76.09525511348662,4
+BlueSky Innovations,2016,NAV Calculation,97,100,1
+BlueSky Innovations,2016,Digital Assets,40,100,4
+BlueSky Innovations,2016,Advisory Services,86,50,1
+BlueSky Innovations,2016,Equity and Fixed Income,27,100,3
+BlueSky Innovations,2016,Multi Asset Class Sol,89,58.3055225840598,5
+BlueSky Innovations,2017,Advisory Services,97,99.05348202076739,4
+BlueSky Innovations,2017,Trade Settlements,90,50,1
+BlueSky Innovations,2017,Multi Asset Class Sol,3,50,3
+BlueSky Innovations,2017,Digital Assets,2,50,3
+BlueSky Innovations,2018,Equity and Fixed Income,77,85.67903598065843,5
+BlueSky Innovations,2018,Digital Assets,73,65.53022930210429,2
+BlueSky Innovations,2018,Digital Assets,42,50,5
+BlueSky Innovations,2018,Hedge Fund Services,78,50,2
+BlueSky Innovations,2018,Trade Settlements,59,84.71359095779523,2
+BlueSky Innovations,2018,Digital Assets,54,81.9129027287428,5
+BlueSky Innovations,2018,Hedge Fund Services,22,78.5059299138732,4
+BlueSky Innovations,2018,Hedge Fund Services,26,50,3
+BlueSky Innovations,2019,Trade Settlements,51,96.41908637999742,2
+BlueSky Innovations,2019,Custody,51,50,2
+BlueSky Innovations,2019,NAV Calculation,52,50,2
+BlueSky Innovations,2019,Custody,25,52.104491037203864,4
+BlueSky Innovations,2020,Custody,22,50,5
+BlueSky Innovations,2020,Digital Assets,17,50,1
+BlueSky Innovations,2020,NAV Calculation,13,50,5
+BlueSky Innovations,2020,Multi Asset Class Sol,47,65.7806913211572,4
+BlueSky Innovations,2020,Hedge Fund Services,14,81.22185175953842,4
+BlueSky Innovations,2020,Hedge Fund Services,70,60.74577685177815,3
+BlueSky Innovations,2021,Currency Management,52,70.45194518541595,4
+BlueSky Innovations,2021,Hedge Fund Services,83,55.78189384561269,1
+BlueSky Innovations,2021,Security Finances,30,90.88205356814791,2
+BlueSky Innovations,2021,Custody,45,50,3
+BlueSky Innovations,2021,Currency Management,78,70.8968693731369,3
+BlueSky Innovations,2021,Custody,88,50,1
+BlueSky Innovations,2021,Hedge Fund Services,12,50,4
+BlueSky Innovations,2022,Trade Settlements,98,50,4
+Phoenix Ventures,2010,Security Finances,48,87.45493126562913,3
+Phoenix Ventures,2010,Hedge Fund Services,41,91.21386059184348,3
+Phoenix Ventures,2010,Equity and Fixed Income,49,56.76600677188035,3
+Phoenix Ventures,2010,Currency Management,43,50,5
+Phoenix Ventures,2010,Hedge Fund Services,68,100,5
+Phoenix Ventures,2010,NAV Calculation,44,50,3
+Phoenix Ventures,2010,Hedge Fund Services,13,50,3
+Phoenix Ventures,2010,Currency Management,9,50,5
+Phoenix Ventures,2010,Security Finances,96,50,3
+Phoenix Ventures,2010,Advisory Services,21,100,5
+Phoenix Ventures,2011,Custody,32,89.31271631507974,3
+Phoenix Ventures,2012,Equity and Fixed Income,71,50,2
+Phoenix Ventures,2012,Digital Assets,95,100,5
+Phoenix Ventures,2012,Trade Settlements,18,50,5
+Phoenix Ventures,2012,Trade Settlements,17,94.90856324258313,3
+Phoenix Ventures,2012,Security Finances,82,99.36881731815576,2
+Phoenix Ventures,2012,NAV Calculation,28,57.278618541560405,4
+Phoenix Ventures,2012,Hedge Fund Services,35,50,2
+Phoenix Ventures,2013,Multi Asset Class Sol,64,81.25642053685333,3
+Phoenix Ventures,2013,Security Finances,6,50,3
+Phoenix Ventures,2013,NAV Calculation,22,50,5
+Phoenix Ventures,2013,NAV Calculation,85,50,5
+Phoenix Ventures,2013,Custody,84,100,2
+Phoenix Ventures,2013,Multi Asset Class Sol,70,50,2
+Phoenix Ventures,2013,Custody,53,94.73454204638412,2
+Phoenix Ventures,2013,Hedge Fund Services,80,50,3
+Phoenix Ventures,2014,Security Finances,10,72.83768027910001,3
+Phoenix Ventures,2014,Equity and Fixed Income,43,50,1
+Phoenix Ventures,2014,NAV Calculation,54,50,2
+Phoenix Ventures,2014,Hedge Fund Services,29,84.87360219545572,5
+Phoenix Ventures,2015,Equity and Fixed Income,63,88.64201294109526,3
+Phoenix Ventures,2016,Digital Assets,74,50,1
+Phoenix Ventures,2016,Hedge Fund Services,10,59.84482823245771,3
+Phoenix Ventures,2016,NAV Calculation,55,67.72042983852734,5
+Phoenix Ventures,2016,Hedge Fund Services,67,100,3
+Phoenix Ventures,2016,Equity and Fixed Income,90,72.47302280732256,1
+Phoenix Ventures,2016,Currency Management,58,62.057202320254376,3
+Phoenix Ventures,2016,Custody,27,69.74420793753903,5
+Phoenix Ventures,2017,NAV Calculation,94,50,5
+Phoenix Ventures,2017,NAV Calculation,79,63.2045313606764,4
+Phoenix Ventures,2017,Trade Settlements,7,50,5
+Phoenix Ventures,2018,Currency Management,5,91.83172492292745,2
+Phoenix Ventures,2018,Advisory Services,75,61.03882340629828,4
+Phoenix Ventures,2018,Custody,96,51.72016875402847,3
+Phoenix Ventures,2018,Digital Assets,47,78.54457729308879,2
+Phoenix Ventures,2018,Advisory Services,3,50,4
+Phoenix Ventures,2018,Advisory Services,6,100,3
+Phoenix Ventures,2018,Equity and Fixed Income,3,52.30656261903745,3
+Phoenix Ventures,2018,Equity and Fixed Income,97,50,5
+Phoenix Ventures,2018,Trade Settlements,41,86.92142817277883,5
+Phoenix Ventures,2018,Hedge Fund Services,84,50,1
+Phoenix Ventures,2019,NAV Calculation,8,64.01440555335105,3
+Phoenix Ventures,2019,Equity and Fixed Income,22,54.476005368126266,2
+Phoenix Ventures,2019,Hedge Fund Services,82,50,2
+Phoenix Ventures,2019,Custody,43,50,5
+Phoenix Ventures,2020,Multi Asset Class Sol,81,90.00628581383056,3
+Phoenix Ventures,2021,Multi Asset Class Sol,87,55.88136886437071,3
+Phoenix Ventures,2022,Currency Management,21,50,5
+Phoenix Ventures,2022,Digital Assets,66,78.31732543625446,2
+Phoenix Ventures,2022,Advisory Services,84,50,2
+Phoenix Ventures,2022,NAV Calculation,88,60.30470862073171,5
+Phoenix Ventures,2022,Security Finances,36,50,5
+Phoenix Ventures,2022,Advisory Services,33,61.91371393160019,5
+SilverStar Systems,2010,Advisory Services,19,50.87334953352099,5
+SilverStar Systems,2010,Advisory Services,72,85.16531918426107,5
+SilverStar Systems,2010,Hedge Fund Services,22,99.00655898387342,5
+SilverStar Systems,2010,Trade Settlements,25,50,5
+SilverStar Systems,2010,Currency Management,80,50,3
+SilverStar Systems,2010,NAV Calculation,87,50,4
+SilverStar Systems,2011,Currency Management,56,97.84876098601278,1
+SilverStar Systems,2011,Currency Management,81,74.63491624153663,5
+SilverStar Systems,2011,Trade Settlements,97,92.53911313034953,2
+SilverStar Systems,2011,Currency Management,46,50,5
+SilverStar Systems,2011,Currency Management,59,50,1
+SilverStar Systems,2011,Currency Management,94,93.06335189521575,5
+SilverStar Systems,2011,Digital Assets,34,78.46258290630223,1
+SilverStar Systems,2011,Advisory Services,93,50,4
+SilverStar Systems,2011,Digital Assets,14,59.52868336185533,5
+SilverStar Systems,2011,Digital Assets,70,50,1
+SilverStar Systems,2012,NAV Calculation,76,100,2
+SilverStar Systems,2013,Digital Assets,67,100,3
+SilverStar Systems,2014,Digital Assets,63,100,2
+SilverStar Systems,2014,Multi Asset Class Sol,68,87.86002875067572,5
+SilverStar Systems,2015,Security Finances,77,100,2
+SilverStar Systems,2015,Advisory Services,55,84.33422902347101,3
+SilverStar Systems,2015,Digital Assets,11,97.06543838138298,4
+SilverStar Systems,2015,Hedge Fund Services,23,59.97043671874026,2
+SilverStar Systems,2016,Custody,7,67.70514225302149,2
+SilverStar Systems,2016,Multi Asset Class Sol,56,50,4
+SilverStar Systems,2016,Equity and Fixed Income,79,100,4
+SilverStar Systems,2016,Advisory Services,86,58.05042642326686,2
+SilverStar Systems,2016,NAV Calculation,25,62.642461281430286,4
+SilverStar Systems,2016,Trade Settlements,87,50,5
+SilverStar Systems,2016,Equity and Fixed Income,36,77.44090099696339,2
+SilverStar Systems,2017,Trade Settlements,99,50,5
+SilverStar Systems,2017,Multi Asset Class Sol,18,91.86425992632736,5
+SilverStar Systems,2017,Advisory Services,73,50,3
+SilverStar Systems,2017,Security Finances,76,92.78278921769746,2
+SilverStar Systems,2017,Trade Settlements,80,85.01900737063085,5
+SilverStar Systems,2017,Security Finances,5,70.18475622736517,5
+SilverStar Systems,2017,Trade Settlements,39,100,1
+SilverStar Systems,2017,Digital Assets,35,70.05664683332846,5
+SilverStar Systems,2017,Digital Assets,88,100,4
+SilverStar Systems,2018,Equity and Fixed Income,67,50,4
+SilverStar Systems,2019,Digital Assets,36,50,5
+SilverStar Systems,2019,Currency Management,67,52.79973708414923,3
+SilverStar Systems,2019,NAV Calculation,28,50,1
+SilverStar Systems,2019,Digital Assets,33,65.28013068716037,1
+SilverStar Systems,2019,Equity and Fixed Income,42,50,2
+SilverStar Systems,2019,Custody,91,66.90896181768704,5
+SilverStar Systems,2020,Trade Settlements,20,50,5
+SilverStar Systems,2020,Trade Settlements,64,100,2
+SilverStar Systems,2020,Equity and Fixed Income,92,100,4
+SilverStar Systems,2020,Hedge Fund Services,35,58.14044194081664,2
+SilverStar Systems,2020,Hedge Fund Services,73,50,1
+SilverStar Systems,2020,Hedge Fund Services,15,50,1
+SilverStar Systems,2020,NAV Calculation,82,50,5
+SilverStar Systems,2020,Advisory Services,12,100,5
+SilverStar Systems,2020,Security Finances,39,82.83654519288277,3
+SilverStar Systems,2020,Custody,82,100,1
+SilverStar Systems,2021,Digital Assets,50,68.20973124203415,1
+SilverStar Systems,2021,Custody,24,50,4
+SilverStar Systems,2022,Trade Settlements,2,50,4
+SilverStar Systems,2022,Currency Management,16,82.67677892591318,1
+SilverStar Systems,2022,Security Finances,43,50,2
+SilverStar Systems,2022,Hedge Fund Services,11,84.13716221199722,2
+SilverStar Systems,2022,Advisory Services,50,50,1
+SilverStar Systems,2022,Digital Assets,31,93.5215339662313,4
+SilverStar Systems,2022,Custody,83,82.04857597095494,1
+SilverStar Systems,2022,Trade Settlements,40,91.95852560903745,5
+SilverStar Systems,2022,Digital Assets,36,50.83300900556795,1
+SilverStar Systems,2022,Equity and Fixed Income,18,100,3
+Nexus Enterprises,2010,Multi Asset Class Sol,34,100,5
+Nexus Enterprises,2010,Currency Management,57,50,4
+Nexus Enterprises,2010,NAV Calculation,20,100,5
+Nexus Enterprises,2010,Security Finances,9,100,2
+Nexus Enterprises,2010,Digital Assets,55,100,3
+Nexus Enterprises,2010,Digital Assets,66,100,4
+Nexus Enterprises,2010,Digital Assets,35,50,4
+Nexus Enterprises,2010,Security Finances,18,100,3
+Nexus Enterprises,2010,NAV Calculation,6,84.66928100154773,4
+Nexus Enterprises,2010,Security Finances,2,50,1
+Nexus Enterprises,2011,Digital Assets,90,51.608177900126535,2
+Nexus Enterprises,2011,Trade Settlements,7,89.42447485378672,4
+Nexus Enterprises,2011,NAV Calculation,25,77.20056688139518,2
+Nexus Enterprises,2011,Currency Management,78,50,4
+Nexus Enterprises,2011,NAV Calculation,64,50,2
+Nexus Enterprises,2011,Security Finances,82,50,2
+Nexus Enterprises,2012,Trade Settlements,53,96.4045995833906,1
+Nexus Enterprises,2012,Digital Assets,54,50,4
+Nexus Enterprises,2012,Digital Assets,88,50,5
+Nexus Enterprises,2012,Multi Asset Class Sol,60,50,5
+Nexus Enterprises,2012,Trade Settlements,43,65.25450397982911,3
+Nexus Enterprises,2012,Equity and Fixed Income,95,50,2
+Nexus Enterprises,2012,Equity and Fixed Income,17,96.42229487721609,5
+Nexus Enterprises,2012,Currency Management,35,93.77343329666313,2
+Nexus Enterprises,2012,Trade Settlements,9,50,5
+Nexus Enterprises,2013,Hedge Fund Services,50,100,3
+Nexus Enterprises,2013,Digital Assets,68,53.64833696292136,1
+Nexus Enterprises,2013,Hedge Fund Services,59,50,2
+Nexus Enterprises,2013,Security Finances,71,100,1
+Nexus Enterprises,2013,Security Finances,95,88.25026232197602,1
+Nexus Enterprises,2014,Custody,91,100,5
+Nexus Enterprises,2014,Equity and Fixed Income,28,100,1
+Nexus Enterprises,2015,Advisory Services,34,100,5
+Nexus Enterprises,2015,NAV Calculation,53,78.97446995286191,3
+Nexus Enterprises,2015,NAV Calculation,35,100,1
+Nexus Enterprises,2015,Advisory Services,13,100,1
+Nexus Enterprises,2015,Currency Management,46,92.15867652017491,5
+Nexus Enterprises,2016,Multi Asset Class Sol,84,100,4
+Nexus Enterprises,2016,Custody,61,61.15116845397448,4
+Nexus Enterprises,2016,NAV Calculation,23,100,3
+Nexus Enterprises,2016,Custody,24,74.13146493506467,5
+Nexus Enterprises,2016,Multi Asset Class Sol,21,100,4
+Nexus Enterprises,2017,Custody,43,100,1
+Nexus Enterprises,2017,NAV Calculation,32,100,1
+Nexus Enterprises,2017,Security Finances,91,100,3
+Nexus Enterprises,2017,Digital Assets,41,100,2
+Nexus Enterprises,2017,Advisory Services,75,74.82054055736316,2
+Nexus Enterprises,2017,Security Finances,72,74.86884761108551,1
+Nexus Enterprises,2017,Advisory Services,90,100,2
+Nexus Enterprises,2017,Currency Management,70,50,4
+Nexus Enterprises,2017,Digital Assets,55,50,4
+Nexus Enterprises,2018,NAV Calculation,90,50,2
+Nexus Enterprises,2019,Currency Management,48,59.07975828333406,2
+Nexus Enterprises,2019,NAV Calculation,45,50,1
+Nexus Enterprises,2019,NAV Calculation,99,70.73592366119232,3
+Nexus Enterprises,2019,Trade Settlements,10,73.9204516752874,1
+Nexus Enterprises,2019,Advisory Services,24,100,4
+Nexus Enterprises,2019,Equity and Fixed Income,53,80.46125632402648,3
+Nexus Enterprises,2019,NAV Calculation,97,100,1
+Nexus Enterprises,2019,Digital Assets,23,55.83570998264787,1
+Nexus Enterprises,2019,Equity and Fixed Income,27,100,3
+Nexus Enterprises,2019,Multi Asset Class Sol,23,50,5
+Nexus Enterprises,2020,NAV Calculation,44,91.5018560458283,1
+Nexus Enterprises,2020,Digital Assets,52,50,5
+Nexus Enterprises,2020,Advisory Services,84,50,3
+Nexus Enterprises,2020,Digital Assets,34,100,4
+Nexus Enterprises,2020,Equity and Fixed Income,5,78.15075607401297,2
+Nexus Enterprises,2020,Custody,30,100,4
+Nexus Enterprises,2020,Trade Settlements,88,50,3
+Nexus Enterprises,2020,Digital Assets,17,55.6848075592755,1
+Nexus Enterprises,2021,Multi Asset Class Sol,50,50,4
+Nexus Enterprises,2021,Digital Assets,78,50,1
+Nexus Enterprises,2021,NAV Calculation,47,50,2
+Nexus Enterprises,2021,NAV Calculation,44,76.15032665048784,4
+Nexus Enterprises,2021,Hedge Fund Services,34,57.92006374875955,1
+Nexus Enterprises,2022,Custody,79,85.50947013321792,1
+Nexus Enterprises,2022,Equity and Fixed Income,95,100,1
+Horizon Technologies,2010,Currency Management,37,61.343257569241835,1
+Horizon Technologies,2010,Custody,26,72.39378417924789,1
+Horizon Technologies,2010,Equity and Fixed Income,7,100,5
+Horizon Technologies,2010,Hedge Fund Services,12,57.23411646241791,5
+Horizon Technologies,2010,Hedge Fund Services,37,50,4
+Horizon Technologies,2010,Trade Settlements,35,50,1
+Horizon Technologies,2010,NAV Calculation,65,100,2
+Horizon Technologies,2010,Security Finances,62,57.890680093039386,1
+Horizon Technologies,2011,Trade Settlements,74,80.34526495795498,1
+Horizon Technologies,2011,Digital Assets,60,92.92109832594235,1
+Horizon Technologies,2011,Digital Assets,99,50,4
+Horizon Technologies,2011,Digital Assets,5,50,3
+Horizon Technologies,2011,Equity and Fixed Income,77,50,2
+Horizon Technologies,2011,Equity and Fixed Income,66,75.82133354312131,3
+Horizon Technologies,2011,Multi Asset Class Sol,9,100,4
+Horizon Technologies,2012,NAV Calculation,93,68.66106801055577,2
+Horizon Technologies,2012,Multi Asset Class Sol,73,100,1
+Horizon Technologies,2012,Hedge Fund Services,49,100,3
+Horizon Technologies,2012,NAV Calculation,88,86.39182044940932,3
+Horizon Technologies,2012,Multi Asset Class Sol,18,100,5
+Horizon Technologies,2012,Hedge Fund Services,78,100,3
+Horizon Technologies,2012,Equity and Fixed Income,52,76.62982897124434,1
+Horizon Technologies,2013,Security Finances,44,100,4
+Horizon Technologies,2013,Trade Settlements,82,50,1
+Horizon Technologies,2013,NAV Calculation,7,100,2
+Horizon Technologies,2013,Digital Assets,41,52.36513722529549,4
+Horizon Technologies,2013,Security Finances,24,50,3
+Horizon Technologies,2013,Security Finances,13,94.24306389109493,1
+Horizon Technologies,2013,NAV Calculation,30,100,1
+Horizon Technologies,2013,Digital Assets,37,100,1
+Horizon Technologies,2013,Multi Asset Class Sol,91,63.628213428278926,4
+Horizon Technologies,2013,Advisory Services,92,100,3
+Horizon Technologies,2014,Hedge Fund Services,77,50,1
+Horizon Technologies,2014,Currency Management,61,82.9346377648424,1
+Horizon Technologies,2014,Security Finances,80,76.3443261229591,5
+Horizon Technologies,2015,Hedge Fund Services,29,50,2
+Horizon Technologies,2015,Advisory Services,49,50,2
+Horizon Technologies,2015,Currency Management,67,100,4
+Horizon Technologies,2015,Currency Management,65,62.39070063896342,4
+Horizon Technologies,2015,Currency Management,24,100,4
+Horizon Technologies,2015,Digital Assets,3,50,4
+Horizon Technologies,2016,Equity and Fixed Income,43,93.05371819089525,5
+Horizon Technologies,2016,Multi Asset Class Sol,10,88.12474980605732,4
+Horizon Technologies,2016,Equity and Fixed Income,44,50,4
+Horizon Technologies,2017,Custody,36,52.626526978247014,1
+Horizon Technologies,2017,Currency Management,28,50,1
+Horizon Technologies,2017,Equity and Fixed Income,58,52.822047357955725,2
+Horizon Technologies,2017,Currency Management,19,100,4
+Horizon Technologies,2017,Custody,85,50,3
+Horizon Technologies,2017,NAV Calculation,85,50,4
+Horizon Technologies,2017,Digital Assets,10,50,2
+Horizon Technologies,2017,Trade Settlements,24,50,4
+Horizon Technologies,2017,Advisory Services,10,75.3156581160449,3
+Horizon Technologies,2017,Equity and Fixed Income,84,67.11507757681579,4
+Horizon Technologies,2018,Security Finances,13,100,5
+Horizon Technologies,2018,Custody,31,50,2
+Horizon Technologies,2018,Advisory Services,71,50,2
+Horizon Technologies,2018,Currency Management,44,94.9374392107328,3
+Horizon Technologies,2018,Multi Asset Class Sol,69,76.45466529092947,4
+Horizon Technologies,2018,Security Finances,75,50,5
+Horizon Technologies,2018,Security Finances,44,100,5
+Horizon Technologies,2018,Custody,35,87.22565943541896,2
+Horizon Technologies,2018,Equity and Fixed Income,8,100,4
+Horizon Technologies,2018,NAV Calculation,56,97.19844747888351,5
+Horizon Technologies,2019,Digital Assets,34,50,3
+Horizon Technologies,2019,Equity and Fixed Income,89,100,3
+Horizon Technologies,2019,Security Finances,35,84.15676837764339,2
+Horizon Technologies,2020,Equity and Fixed Income,80,59.383504533871665,4
+Horizon Technologies,2020,Advisory Services,1,52.919855775543724,3
+Horizon Technologies,2020,Equity and Fixed Income,25,100,3
+Horizon Technologies,2020,Trade Settlements,36,89.51300840638685,2
+Horizon Technologies,2020,Advisory Services,100,100,5
+Horizon Technologies,2020,Advisory Services,60,100,4
+Horizon Technologies,2020,Custody,26,50,5
+Horizon Technologies,2020,Hedge Fund Services,100,64.77539724773193,2
+Horizon Technologies,2020,Multi Asset Class Sol,24,100,2
+Horizon Technologies,2020,Hedge Fund Services,74,50,2
+Horizon Technologies,2021,Currency Management,4,50,2
+Horizon Technologies,2021,Multi Asset Class Sol,65,67.45770265509177,1
+Horizon Technologies,2021,Equity and Fixed Income,62,55.2396252700708,5
+Horizon Technologies,2021,NAV Calculation,50,97.03950565775366,1
+Horizon Technologies,2022,Custody,20,79.77746006436577,4
+Horizon Technologies,2022,Security Finances,24,100,2
+Horizon Technologies,2022,Trade Settlements,18,100,4
+Horizon Technologies,2022,Security Finances,93,73.20270883947904,1
+Horizon Technologies,2022,Security Finances,85,89.36037264739034,3
+Horizon Technologies,2022,Trade Settlements,64,89.2558769201063,5
+Horizon Technologies,2022,Hedge Fund Services,28,100,3
+Horizon Technologies,2022,Custody,46,97.95152379562823,2
+Horizon Technologies,2022,NAV Calculation,86,74.28376508178961,4
+Sunburst Solutions,2010,Security Finances,22,100,2
+Sunburst Solutions,2010,Hedge Fund Services,43,100,4
+Sunburst Solutions,2010,Advisory Services,97,100,1
+Sunburst Solutions,2010,Custody,89,100,1
+Sunburst Solutions,2010,Advisory Services,97,100,1
+Sunburst Solutions,2010,Multi Asset Class Sol,31,100,2
+Sunburst Solutions,2010,Digital Assets,88,50,1
+Sunburst Solutions,2010,Currency Management,48,70.74467532545292,4
+Sunburst Solutions,2010,Hedge Fund Services,98,96.84786061210086,4
+Sunburst Solutions,2011,Advisory Services,36,78.3935629284532,5
+Sunburst Solutions,2011,NAV Calculation,12,89.38218822377362,2
+Sunburst Solutions,2011,Security Finances,1,100,1
+Sunburst Solutions,2011,Currency Management,15,100,5
+Sunburst Solutions,2011,Multi Asset Class Sol,3,70.75412938707285,3
+Sunburst Solutions,2011,Advisory Services,10,50,4
+Sunburst Solutions,2011,Security Finances,87,98.99854440552697,2
+Sunburst Solutions,2011,Security Finances,64,100,1
+Sunburst Solutions,2011,Custody,27,100,4
+Sunburst Solutions,2011,Equity and Fixed Income,78,50,5
+Sunburst Solutions,2012,Hedge Fund Services,67,96.5884601270871,3
+Sunburst Solutions,2012,Hedge Fund Services,45,50,3
+Sunburst Solutions,2013,NAV Calculation,41,91.525583038702,5
+Sunburst Solutions,2013,Advisory Services,67,50,5
+Sunburst Solutions,2013,Custody,97,97.97485598663269,3
+Sunburst Solutions,2013,Equity and Fixed Income,32,63.625383218389445,5
+Sunburst Solutions,2014,Security Finances,64,100,3
+Sunburst Solutions,2014,Equity and Fixed Income,90,100,3
+Sunburst Solutions,2014,Custody,98,72.85350714509362,4
+Sunburst Solutions,2014,Multi Asset Class Sol,45,100,4
+Sunburst Solutions,2014,Equity and Fixed Income,99,50,3
+Sunburst Solutions,2014,Custody,3,100,4
+Sunburst Solutions,2014,Equity and Fixed Income,22,96.3779391865737,5
+Sunburst Solutions,2014,NAV Calculation,43,84.33591401894216,5
+Sunburst Solutions,2014,Custody,90,100,5
+Sunburst Solutions,2014,Equity and Fixed Income,68,50,4
+Sunburst Solutions,2015,Trade Settlements,66,89.08698220126705,2
+Sunburst Solutions,2015,Digital Assets,82,50,1
+Sunburst Solutions,2016,Advisory Services,99,50,4
+Sunburst Solutions,2016,Hedge Fund Services,40,83.29837039393323,4
+Sunburst Solutions,2016,Hedge Fund Services,74,92.91030653079777,1
+Sunburst Solutions,2016,Hedge Fund Services,91,50,1
+Sunburst Solutions,2016,NAV Calculation,86,56.75213580785956,3
+Sunburst Solutions,2016,Advisory Services,72,50,4
+Sunburst Solutions,2017,Security Finances,24,50,5
+Sunburst Solutions,2017,Custody,98,50,2
+Sunburst Solutions,2018,Advisory Services,52,64.49979697718459,3
+Sunburst Solutions,2018,Digital Assets,39,50,5
+Sunburst Solutions,2018,Advisory Services,60,65.7387749647429,2
+Sunburst Solutions,2018,Equity and Fixed Income,85,50,2
+Sunburst Solutions,2018,Security Finances,49,50,2
+Sunburst Solutions,2018,Currency Management,34,50,1
+Sunburst Solutions,2018,Currency Management,74,50,3
+Sunburst Solutions,2018,Multi Asset Class Sol,67,50,1
+Sunburst Solutions,2018,Advisory Services,10,50,4
+Sunburst Solutions,2018,Custody,83,93.16072483144056,1
+Sunburst Solutions,2019,Custody,58,100,3
+Sunburst Solutions,2019,Multi Asset Class Sol,64,100,3
+Sunburst Solutions,2019,Digital Assets,5,58.39609620380477,2
+Sunburst Solutions,2019,Hedge Fund Services,69,88.48696894424883,1
+Sunburst Solutions,2019,Security Finances,5,100,2
+Sunburst Solutions,2019,Equity and Fixed Income,79,93.57838818465946,4
+Sunburst Solutions,2019,Custody,12,80.6358372466044,2
+Sunburst Solutions,2019,Digital Assets,99,100,3
+Sunburst Solutions,2019,Digital Assets,88,50,5
+Sunburst Solutions,2019,Hedge Fund Services,17,65.69824158618917,5
+Sunburst Solutions,2020,Hedge Fund Services,44,100,3
+Sunburst Solutions,2020,Advisory Services,64,67.69315578452947,1
+Sunburst Solutions,2020,Security Finances,71,99.95527714081884,5
+Sunburst Solutions,2020,Digital Assets,95,50,1
+Sunburst Solutions,2020,Custody,6,50,3
+Sunburst Solutions,2020,Trade Settlements,94,70.95979792927977,1
+Sunburst Solutions,2020,Trade Settlements,30,100,2
+Sunburst Solutions,2020,Trade Settlements,15,100,2
+Sunburst Solutions,2020,Hedge Fund Services,57,50,2
+Sunburst Solutions,2021,Multi Asset Class Sol,82,56.89396641379561,3
+Sunburst Solutions,2021,Hedge Fund Services,69,87.73246206412195,1
+Sunburst Solutions,2021,Multi Asset Class Sol,71,50,4
+Sunburst Solutions,2021,NAV Calculation,24,87.72675001719925,5
+Sunburst Solutions,2022,Hedge Fund Services,85,100,3
+Sunburst Solutions,2022,NAV Calculation,42,50,5
+Sunburst Solutions,2022,Digital Assets,44,56.496924828736255,4
+Omega Dynamics,2010,Digital Assets,33,70.87002167094772,4
+Omega Dynamics,2010,Security Finances,12,99.61792735216619,3
+Omega Dynamics,2010,Currency Management,62,100,2
+Omega Dynamics,2010,Advisory Services,12,72.2075582045631,5
+Omega Dynamics,2010,Security Finances,24,80.31644945326903,5
+Omega Dynamics,2010,Equity and Fixed Income,29,50,5
+Omega Dynamics,2010,Multi Asset Class Sol,48,50,3
+Omega Dynamics,2010,Multi Asset Class Sol,59,70.65715422735306,5
+Omega Dynamics,2010,Advisory Services,67,50,5
+Omega Dynamics,2011,Advisory Services,53,71.80790264399566,1
+Omega Dynamics,2011,NAV Calculation,26,59.17664535110663,5
+Omega Dynamics,2011,Digital Assets,79,56.08365065489703,5
+Omega Dynamics,2011,NAV Calculation,43,50,5
+Omega Dynamics,2011,Advisory Services,1,90.65909954690986,2
+Omega Dynamics,2011,Trade Settlements,38,50,2
+Omega Dynamics,2011,NAV Calculation,69,66.50623150341315,2
+Omega Dynamics,2012,Security Finances,61,50,2
+Omega Dynamics,2012,Multi Asset Class Sol,62,85.4308916953875,1
+Omega Dynamics,2012,Custody,39,50,3
+Omega Dynamics,2013,Equity and Fixed Income,64,97.96432281923973,1
+Omega Dynamics,2014,Advisory Services,11,54.327718907603014,3
+Omega Dynamics,2014,Equity and Fixed Income,94,79.859817834008,4
+Omega Dynamics,2014,NAV Calculation,85,100,3
+Omega Dynamics,2015,Security Finances,8,100,4
+Omega Dynamics,2015,Trade Settlements,61,100,4
+Omega Dynamics,2015,Trade Settlements,18,100,4
+Omega Dynamics,2015,Digital Assets,70,100,1
+Omega Dynamics,2015,Equity and Fixed Income,38,100,3
+Omega Dynamics,2015,Equity and Fixed Income,89,100,3
+Omega Dynamics,2016,NAV Calculation,94,98.90914999276546,3
+Omega Dynamics,2016,Digital Assets,25,60.95389206740637,3
+Omega Dynamics,2016,Digital Assets,9,100,2
+Omega Dynamics,2016,Digital Assets,48,84.18094522298776,1
+Omega Dynamics,2016,Custody,22,100,4
+Omega Dynamics,2016,Multi Asset Class Sol,91,100,1
+Omega Dynamics,2016,Multi Asset Class Sol,27,50,5
+Omega Dynamics,2016,NAV Calculation,33,100,1
+Omega Dynamics,2016,Equity and Fixed Income,76,100,1
+Omega Dynamics,2017,Security Finances,49,100,1
+Omega Dynamics,2017,Security Finances,11,100,5
+Omega Dynamics,2017,NAV Calculation,26,87.37900563325402,4
+Omega Dynamics,2017,Currency Management,3,100,5
+Omega Dynamics,2017,Security Finances,6,100,1
+Omega Dynamics,2017,Equity and Fixed Income,83,100,2
+Omega Dynamics,2017,Multi Asset Class Sol,53,91.39617249612843,2
+Omega Dynamics,2017,NAV Calculation,85,100,3
+Omega Dynamics,2017,Digital Assets,84,100,4
+Omega Dynamics,2018,Multi Asset Class Sol,35,100,3
+Omega Dynamics,2018,Advisory Services,39,100,2
+Omega Dynamics,2018,Equity and Fixed Income,72,100,4
+Omega Dynamics,2018,Equity and Fixed Income,37,100,1
+Omega Dynamics,2018,Digital Assets,95,86.69761697845814,2
+Omega Dynamics,2019,Security Finances,20,100,3
+Omega Dynamics,2019,Digital Assets,42,100,3
+Omega Dynamics,2019,NAV Calculation,90,50,1
+Omega Dynamics,2020,Custody,31,100,1
+Omega Dynamics,2020,Currency Management,26,50,4
+Omega Dynamics,2020,Equity and Fixed Income,67,78.19051631521319,4
+Omega Dynamics,2020,Advisory Services,35,50,3
+Omega Dynamics,2020,Digital Assets,89,50,4
+Omega Dynamics,2020,Equity and Fixed Income,92,89.82553595815418,4
+Omega Dynamics,2020,NAV Calculation,74,58.65138863397222,5
+Omega Dynamics,2020,Digital Assets,78,78.16619113349492,5
+Omega Dynamics,2021,Hedge Fund Services,53,63.487995369132776,1
+Omega Dynamics,2021,Multi Asset Class Sol,11,64.16803456198349,3
+Omega Dynamics,2021,Hedge Fund Services,28,100,5
+Omega Dynamics,2021,Advisory Services,5,71.63248466678061,2
+Omega Dynamics,2021,Trade Settlements,58,50,3
+Omega Dynamics,2021,Custody,3,100,5
+Omega Dynamics,2021,Equity and Fixed Income,64,100,5
+Omega Dynamics,2022,Multi Asset Class Sol,6,68.11997451560202,4
+Omega Dynamics,2022,Digital Assets,99,100,5
+Omega Dynamics,2022,NAV Calculation,72,100,4
+Omega Dynamics,2022,Multi Asset Class Sol,71,100,3
+Omega Dynamics,2022,Security Finances,2,70.18652945506021,4
+DynaCore Industries,2010,Advisory Services,65,50,1
+DynaCore Industries,2010,Advisory Services,50,100,2
+DynaCore Industries,2010,Digital Assets,10,70.71977705357753,3
+DynaCore Industries,2010,NAV Calculation,21,75.93923794376141,1
+DynaCore Industries,2010,Hedge Fund Services,34,74.72894669262638,4
+DynaCore Industries,2010,Multi Asset Class Sol,30,50,1
+DynaCore Industries,2011,Trade Settlements,89,50.99379953962214,2
+DynaCore Industries,2011,Trade Settlements,31,81.02081986160609,1
+DynaCore Industries,2011,Hedge Fund Services,68,50,1
+DynaCore Industries,2011,Trade Settlements,47,74.4580506845909,2
+DynaCore Industries,2011,Digital Assets,48,50,4
+DynaCore Industries,2011,Advisory Services,86,50,5
+DynaCore Industries,2011,Trade Settlements,94,88.55611213681301,1
+DynaCore Industries,2011,Advisory Services,40,100,1
+DynaCore Industries,2012,Security Finances,29,100,3
+DynaCore Industries,2013,Custody,39,92.22158139471838,4
+DynaCore Industries,2013,Equity and Fixed Income,61,100,1
+DynaCore Industries,2013,Equity and Fixed Income,93,100,1
+DynaCore Industries,2014,Advisory Services,50,100,2
+DynaCore Industries,2014,Currency Management,92,100,5
+DynaCore Industries,2014,Currency Management,12,82.57268758147174,3
+DynaCore Industries,2014,Multi Asset Class Sol,20,100,2
+DynaCore Industries,2014,NAV Calculation,39,100,2
+DynaCore Industries,2014,Digital Assets,10,100,5
+DynaCore Industries,2014,Custody,37,65.85756792250342,4
+DynaCore Industries,2014,Custody,36,52.2117526781101,4
+DynaCore Industries,2014,Security Finances,77,100,3
+DynaCore Industries,2014,Digital Assets,98,100,1
+DynaCore Industries,2015,Custody,88,100,3
+DynaCore Industries,2015,Currency Management,64,76.39243006820189,3
+DynaCore Industries,2015,Trade Settlements,27,100,3
+DynaCore Industries,2015,Advisory Services,99,70.88864670821299,1
+DynaCore Industries,2015,Trade Settlements,21,64.96102085391858,2
+DynaCore Industries,2015,Equity and Fixed Income,76,95.76911713171278,4
+DynaCore Industries,2015,Multi Asset Class Sol,25,100,5
+DynaCore Industries,2015,NAV Calculation,80,100,3
+DynaCore Industries,2015,Currency Management,8,50,4
+DynaCore Industries,2015,Digital Assets,14,100,2
+DynaCore Industries,2016,Trade Settlements,64,100,5
+DynaCore Industries,2016,Trade Settlements,50,55.45279814070494,5
+DynaCore Industries,2016,NAV Calculation,73,85.66224811399326,5
+DynaCore Industries,2016,NAV Calculation,8,50,5
+DynaCore Industries,2016,Advisory Services,85,78.78415348640887,5
+DynaCore Industries,2016,Trade Settlements,82,100,2
+DynaCore Industries,2016,Security Finances,91,100,1
+DynaCore Industries,2016,Digital Assets,73,51.04994682452107,5
+DynaCore Industries,2017,NAV Calculation,29,50,2
+DynaCore Industries,2017,Hedge Fund Services,71,96.75857070977835,1
+DynaCore Industries,2018,Currency Management,81,50,4
+DynaCore Industries,2018,Digital Assets,42,100,2
+DynaCore Industries,2018,NAV Calculation,40,76.1870272878673,5
+DynaCore Industries,2018,Advisory Services,99,91.05151623037311,5
+DynaCore Industries,2018,NAV Calculation,45,87.6246306510831,5
+DynaCore Industries,2018,Trade Settlements,67,72.36773059532278,2
+DynaCore Industries,2019,NAV Calculation,70,50,2
+DynaCore Industries,2019,Currency Management,71,87.64390475770043,2
+DynaCore Industries,2019,Currency Management,10,99.27421427119086,1
+DynaCore Industries,2019,Digital Assets,88,54.330089701828626,3
+DynaCore Industries,2019,NAV Calculation,77,50,5
+DynaCore Industries,2019,Security Finances,77,50,4
+DynaCore Industries,2019,Digital Assets,50,50,5
+DynaCore Industries,2019,Security Finances,82,50,1
+DynaCore Industries,2020,Advisory Services,72,50,3
+DynaCore Industries,2020,Security Finances,11,91.05146229928485,3
+DynaCore Industries,2020,Equity and Fixed Income,33,50,3
+DynaCore Industries,2020,Custody,52,97.44398281947556,1
+DynaCore Industries,2020,Custody,18,50,1
+DynaCore Industries,2020,Digital Assets,28,50,3
+DynaCore Industries,2020,Currency Management,45,65.59755153732131,2
+DynaCore Industries,2020,Advisory Services,13,90.16935730130055,2
+DynaCore Industries,2020,Digital Assets,74,78.3214271999844,4
+DynaCore Industries,2021,Custody,1,100,2
+DynaCore Industries,2021,Trade Settlements,98,50,5
+DynaCore Industries,2021,NAV Calculation,49,90.45073846226506,4
+DynaCore Industries,2021,Currency Management,8,50,5
+DynaCore Industries,2022,Advisory Services,1,50,2
+Synergy Ventures,2010,Multi Asset Class Sol,34,57.797390081452996,1
+Synergy Ventures,2010,Advisory Services,90,61.39112870255817,2
+Synergy Ventures,2010,Trade Settlements,70,61.78810860469456,1
+Synergy Ventures,2010,Currency Management,65,92.81612577637281,3
+Synergy Ventures,2010,Custody,96,50,1
+Synergy Ventures,2011,NAV Calculation,20,50,5
+Synergy Ventures,2011,Currency Management,15,100,5
+Synergy Ventures,2011,Currency Management,6,50,4
+Synergy Ventures,2011,Custody,67,56.511943593300714,2
+Synergy Ventures,2011,Hedge Fund Services,33,63.30086398980799,5
+Synergy Ventures,2011,Security Finances,94,50,2
+Synergy Ventures,2012,Custody,69,50,1
+Synergy Ventures,2012,Currency Management,62,50,3
+Synergy Ventures,2012,Hedge Fund Services,87,89.24806932907937,4
+Synergy Ventures,2013,Multi Asset Class Sol,7,90.65868562186509,2
+Synergy Ventures,2013,Hedge Fund Services,60,100,5
+Synergy Ventures,2014,Currency Management,25,100,4
+Synergy Ventures,2014,NAV Calculation,88,60.00764727485236,1
+Synergy Ventures,2014,Custody,100,100,5
+Synergy Ventures,2015,Security Finances,22,100,5
+Synergy Ventures,2015,Security Finances,29,83.05377945606935,5
+Synergy Ventures,2015,Custody,54,100,2
+Synergy Ventures,2015,Security Finances,93,100,5
+Synergy Ventures,2015,Equity and Fixed Income,49,89.48692403850606,2
+Synergy Ventures,2015,Multi Asset Class Sol,51,100,1
+Synergy Ventures,2015,Digital Assets,28,94.04534451513106,3
+Synergy Ventures,2015,Multi Asset Class Sol,84,100,2
+Synergy Ventures,2015,Multi Asset Class Sol,92,100,5
+Synergy Ventures,2015,Currency Management,51,60.544197962102764,3
+Synergy Ventures,2016,Advisory Services,78,61.5711624817326,3
+Synergy Ventures,2016,Trade Settlements,81,50,3
+Synergy Ventures,2016,Trade Settlements,64,88.88516678972167,3
+Synergy Ventures,2016,Trade Settlements,45,50,2
+Synergy Ventures,2016,Custody,44,50,2
+Synergy Ventures,2016,Security Finances,6,50,2
+Synergy Ventures,2017,Trade Settlements,68,61.81924397546668,2
+Synergy Ventures,2017,Multi Asset Class Sol,92,50,5
+Synergy Ventures,2017,Trade Settlements,18,87.29251897620068,2
+Synergy Ventures,2017,Currency Management,68,50,4
+Synergy Ventures,2017,Advisory Services,54,85.79378770844394,3
+Synergy Ventures,2017,Equity and Fixed Income,100,50,1
+Synergy Ventures,2017,Equity and Fixed Income,27,50,1
+Synergy Ventures,2017,Digital Assets,64,50,4
+Synergy Ventures,2017,NAV Calculation,64,50,3
+Synergy Ventures,2017,Custody,66,61.36204468608142,3
+Synergy Ventures,2018,Digital Assets,76,96.14295136843823,3
+Synergy Ventures,2018,Currency Management,74,50,2
+Synergy Ventures,2018,Trade Settlements,8,100,5
+Synergy Ventures,2018,Custody,69,50,4
+Synergy Ventures,2018,Advisory Services,7,87.88969326026738,5
+Synergy Ventures,2018,Advisory Services,100,100,4
+Synergy Ventures,2018,Multi Asset Class Sol,78,95.62966281675072,3
+Synergy Ventures,2019,Equity and Fixed Income,30,50,3
+Synergy Ventures,2019,NAV Calculation,5,71.28987225846109,1
+Synergy Ventures,2019,Hedge Fund Services,21,100,1
+Synergy Ventures,2019,Equity and Fixed Income,88,91.31767529240469,3
+Synergy Ventures,2019,Custody,88,100,5
+Synergy Ventures,2019,Custody,81,100,2
+Synergy Ventures,2019,Equity and Fixed Income,66,66.05760754368097,5
+Synergy Ventures,2019,Equity and Fixed Income,66,100,4
+Synergy Ventures,2020,Multi Asset Class Sol,51,100,2
+Synergy Ventures,2020,Currency Management,96,61.295799297398446,2
+Synergy Ventures,2021,Multi Asset Class Sol,68,50,1
+Synergy Ventures,2021,Advisory Services,81,50,3
+Synergy Ventures,2021,Security Finances,99,85.06810210827398,1
+Synergy Ventures,2021,Currency Management,51,50,5
+Synergy Ventures,2021,Trade Settlements,98,100,5
+Synergy Ventures,2021,Multi Asset Class Sol,12,65.89074937245238,3
+Synergy Ventures,2021,NAV Calculation,97,50,5
+Synergy Ventures,2022,Custody,43,100,5
+Synergy Ventures,2022,Multi Asset Class Sol,10,70.89430468931243,4
+Synergy Ventures,2022,Currency Management,11,74.31359399629581,2
+Synergy Ventures,2022,Trade Settlements,92,50,3
+Synergy Ventures,2022,Trade Settlements,50,50.47529978039628,5
+Synergy Ventures,2022,Security Finances,77,53.28337915269068,5
+Synergy Ventures,2022,Hedge Fund Services,49,50,2
+Synergy Ventures,2022,Multi Asset Class Sol,18,66.82231199302976,1
+Synergy Ventures,2022,Equity and Fixed Income,98,55.598056144382895,3
+Synergy Ventures,2022,Currency Management,85,50,1
+QuantumCraft Inc.,2010,Multi Asset Class Sol,29,50,2
+QuantumCraft Inc.,2010,Custody,93,80.81408534394498,1
+QuantumCraft Inc.,2010,Advisory Services,19,50,4
+QuantumCraft Inc.,2010,Trade Settlements,99,99.16166457797176,1
+QuantumCraft Inc.,2010,Multi Asset Class Sol,83,100,3
+QuantumCraft Inc.,2011,NAV Calculation,17,100,3
+QuantumCraft Inc.,2011,Security Finances,71,100,2
+QuantumCraft Inc.,2011,Security Finances,67,56.68761865355106,1
+QuantumCraft Inc.,2011,Security Finances,21,50,1
+QuantumCraft Inc.,2011,Hedge Fund Services,79,75.04814189188477,1
+QuantumCraft Inc.,2011,Equity and Fixed Income,80,71.36962986933604,2
+QuantumCraft Inc.,2012,NAV Calculation,46,100,2
+QuantumCraft Inc.,2012,Equity and Fixed Income,11,81.79806270277322,5
+QuantumCraft Inc.,2012,Custody,100,72.28731648819034,5
+QuantumCraft Inc.,2013,Security Finances,38,50,5
+QuantumCraft Inc.,2013,Multi Asset Class Sol,48,100,2
+QuantumCraft Inc.,2013,Digital Assets,13,53.43344155488703,4
+QuantumCraft Inc.,2013,NAV Calculation,88,100,4
+QuantumCraft Inc.,2013,Equity and Fixed Income,5,72.0749076092973,2
+QuantumCraft Inc.,2013,Digital Assets,13,73.78198270516955,2
+QuantumCraft Inc.,2013,NAV Calculation,60,100,5
+QuantumCraft Inc.,2014,Security Finances,42,100,4
+QuantumCraft Inc.,2014,Digital Assets,16,100,5
+QuantumCraft Inc.,2014,Custody,34,100,4
+QuantumCraft Inc.,2015,Equity and Fixed Income,63,64.4969562874221,3
+QuantumCraft Inc.,2015,Hedge Fund Services,42,58.64613757518969,5
+QuantumCraft Inc.,2015,Advisory Services,45,100,5
+QuantumCraft Inc.,2015,NAV Calculation,6,100,5
+QuantumCraft Inc.,2015,Security Finances,15,100,3
+QuantumCraft Inc.,2015,Hedge Fund Services,39,100,2
+QuantumCraft Inc.,2015,Security Finances,38,100,1
+QuantumCraft Inc.,2016,Trade Settlements,33,100,4
+QuantumCraft Inc.,2017,Custody,92,100,3
+QuantumCraft Inc.,2017,Equity and Fixed Income,15,79.60227106771563,3
+QuantumCraft Inc.,2017,Hedge Fund Services,46,100,4
+QuantumCraft Inc.,2017,Equity and Fixed Income,46,100,5
+QuantumCraft Inc.,2017,Currency Management,73,100,3
+QuantumCraft Inc.,2017,NAV Calculation,55,100,4
+QuantumCraft Inc.,2017,Hedge Fund Services,73,92.8416023654338,4
+QuantumCraft Inc.,2017,Currency Management,16,100,3
+QuantumCraft Inc.,2018,Security Finances,66,100,1
+QuantumCraft Inc.,2018,NAV Calculation,84,52.86759712639221,1
+QuantumCraft Inc.,2018,Multi Asset Class Sol,63,91.29122735292455,5
+QuantumCraft Inc.,2018,NAV Calculation,11,100,1
+QuantumCraft Inc.,2018,Equity and Fixed Income,31,80.44112725257759,4
+QuantumCraft Inc.,2019,Digital Assets,88,71.78048149380601,3
+QuantumCraft Inc.,2019,Multi Asset Class Sol,75,100,4
+QuantumCraft Inc.,2019,NAV Calculation,46,53.68736024961338,1
+QuantumCraft Inc.,2019,Digital Assets,70,64.39594987832177,5
+QuantumCraft Inc.,2019,Custody,94,100,4
+QuantumCraft Inc.,2019,Custody,2,87.84928998936039,2
+QuantumCraft Inc.,2019,Hedge Fund Services,90,100,3
+QuantumCraft Inc.,2019,Multi Asset Class Sol,91,50.31980873582883,3
+QuantumCraft Inc.,2019,Trade Settlements,62,98.75364994766305,1
+QuantumCraft Inc.,2019,Currency Management,72,100,3
+QuantumCraft Inc.,2020,Custody,15,81.27184092563024,1
+QuantumCraft Inc.,2020,Multi Asset Class Sol,82,100,3
+QuantumCraft Inc.,2020,NAV Calculation,52,100,1
+QuantumCraft Inc.,2020,Multi Asset Class Sol,75,100,5
+QuantumCraft Inc.,2020,NAV Calculation,17,100,1
+QuantumCraft Inc.,2020,NAV Calculation,74,100,1
+QuantumCraft Inc.,2020,Digital Assets,70,100,2
+QuantumCraft Inc.,2020,Digital Assets,20,100,2
+QuantumCraft Inc.,2021,Digital Assets,30,100,2
+QuantumCraft Inc.,2022,Multi Asset Class Sol,62,100,5
+QuantumCraft Inc.,2022,Equity and Fixed Income,54,100,4
+QuantumCraft Inc.,2022,Multi Asset Class Sol,31,100,3
+QuantumCraft Inc.,2022,Custody,1,73.57104783721675,2
+InnovateX Solutions,2010,Digital Assets,3,73.07197510333914,3
+InnovateX Solutions,2010,Hedge Fund Services,18,50,4
+InnovateX Solutions,2010,Custody,36,92.60377245681616,4
+InnovateX Solutions,2011,Hedge Fund Services,69,100,4
+InnovateX Solutions,2011,NAV Calculation,85,100,1
+InnovateX Solutions,2011,Hedge Fund Services,43,100,2
+InnovateX Solutions,2011,Custody,90,100,3
+InnovateX Solutions,2011,Hedge Fund Services,63,100,3
+InnovateX Solutions,2011,Advisory Services,43,52.25681562692492,1
+InnovateX Solutions,2012,Digital Assets,46,100,5
+InnovateX Solutions,2012,Hedge Fund Services,74,100,1
+InnovateX Solutions,2012,NAV Calculation,79,50,3
+InnovateX Solutions,2012,Multi Asset Class Sol,20,50,5
+InnovateX Solutions,2013,Trade Settlements,89,92.58201470990748,4
+InnovateX Solutions,2013,Security Finances,19,50,2
+InnovateX Solutions,2013,Hedge Fund Services,24,79.61086704701313,5
+InnovateX Solutions,2013,Digital Assets,100,77.06286985158343,5
+InnovateX Solutions,2014,Trade Settlements,72,50,3
+InnovateX Solutions,2014,Advisory Services,90,50,4
+InnovateX Solutions,2015,Trade Settlements,67,50,5
+InnovateX Solutions,2015,Currency Management,28,50,1
+InnovateX Solutions,2015,Currency Management,33,50,4
+InnovateX Solutions,2015,Equity and Fixed Income,25,71.4391528877066,2
+InnovateX Solutions,2015,Multi Asset Class Sol,57,75.9336606787377,3
+InnovateX Solutions,2015,NAV Calculation,52,100,2
+InnovateX Solutions,2015,Multi Asset Class Sol,79,50,3
+InnovateX Solutions,2015,Hedge Fund Services,66,50,2
+InnovateX Solutions,2015,Advisory Services,92,50,2
+InnovateX Solutions,2015,Advisory Services,65,50,2
+InnovateX Solutions,2016,Hedge Fund Services,66,100,3
+InnovateX Solutions,2016,Advisory Services,69,50,3
+InnovateX Solutions,2016,Digital Assets,31,100,1
+InnovateX Solutions,2016,Custody,55,50,4
+InnovateX Solutions,2017,Equity and Fixed Income,87,50,5
+InnovateX Solutions,2017,Equity and Fixed Income,75,80.03673730729928,1
+InnovateX Solutions,2017,Hedge Fund Services,39,50,5
+InnovateX Solutions,2017,Equity and Fixed Income,72,50,5
+InnovateX Solutions,2017,Security Finances,100,97.62654268600772,3
+InnovateX Solutions,2017,Currency Management,31,50,2
+InnovateX Solutions,2017,Multi Asset Class Sol,18,71.54069598502409,3
+InnovateX Solutions,2017,Digital Assets,15,95.95963764454417,2
+InnovateX Solutions,2018,Digital Assets,84,87.18505751323477,4
+InnovateX Solutions,2018,Hedge Fund Services,49,100,3
+InnovateX Solutions,2018,NAV Calculation,86,92.419205048577,5
+InnovateX Solutions,2019,Equity and Fixed Income,84,77.8136184696738,3
+InnovateX Solutions,2019,Multi Asset Class Sol,1,99.9715520115658,3
+InnovateX Solutions,2020,Hedge Fund Services,89,96.7126921105687,1
+InnovateX Solutions,2020,Digital Assets,6,95.29701124137353,2
+InnovateX Solutions,2020,Security Finances,98,83.4356810636299,4
+InnovateX Solutions,2020,Custody,57,100,4
+InnovateX Solutions,2020,Advisory Services,35,100,1
+InnovateX Solutions,2021,Custody,39,71.33959600821956,3
+InnovateX Solutions,2022,Multi Asset Class Sol,42,72.82316628419316,3
+InnovateX Solutions,2022,Currency Management,63,100,5
+Moonshot Technologies,2010,Security Finances,58,50,3
+Moonshot Technologies,2010,Currency Management,15,91.4093653515578,2
+Moonshot Technologies,2010,Trade Settlements,32,91.36002431847928,2
+Moonshot Technologies,2010,Currency Management,75,100,1
+Moonshot Technologies,2010,NAV Calculation,73,79.95211861843075,2
+Moonshot Technologies,2010,Hedge Fund Services,38,50,1
+Moonshot Technologies,2010,Digital Assets,3,50,3
+Moonshot Technologies,2010,Security Finances,67,100,5
+Moonshot Technologies,2010,Hedge Fund Services,60,63.12101591977024,3
+Moonshot Technologies,2011,Currency Management,37,64.03844228912533,4
+Moonshot Technologies,2011,Currency Management,36,100,5
+Moonshot Technologies,2011,Digital Assets,91,50,4
+Moonshot Technologies,2011,Currency Management,57,69.46445421448345,3
+Moonshot Technologies,2011,Multi Asset Class Sol,99,50,4
+Moonshot Technologies,2011,Digital Assets,50,50,2
+Moonshot Technologies,2012,Multi Asset Class Sol,49,50,1
+Moonshot Technologies,2012,NAV Calculation,42,85.31624296003426,3
+Moonshot Technologies,2012,Advisory Services,63,52.01850240157693,5
+Moonshot Technologies,2012,Equity and Fixed Income,21,50,3
+Moonshot Technologies,2012,Equity and Fixed Income,57,50,1
+Moonshot Technologies,2012,Equity and Fixed Income,79,99.76900733415931,4
+Moonshot Technologies,2012,Multi Asset Class Sol,69,73.8923750845296,4
+Moonshot Technologies,2012,Advisory Services,68,66.26372508320893,5
+Moonshot Technologies,2012,Custody,78,50,1
+Moonshot Technologies,2012,Currency Management,50,94.00660303933446,1
+Moonshot Technologies,2013,Trade Settlements,83,64.89791975114493,2
+Moonshot Technologies,2013,Multi Asset Class Sol,70,100,4
+Moonshot Technologies,2013,Multi Asset Class Sol,99,83.26086131201033,5
+Moonshot Technologies,2013,Security Finances,9,100,3
+Moonshot Technologies,2013,Digital Assets,34,94.38048956938934,3
+Moonshot Technologies,2014,Hedge Fund Services,77,87.78153582599818,1
+Moonshot Technologies,2014,Trade Settlements,61,100,1
+Moonshot Technologies,2014,Equity and Fixed Income,45,50,2
+Moonshot Technologies,2014,Digital Assets,49,100,5
+Moonshot Technologies,2014,Digital Assets,28,52.3124694334527,2
+Moonshot Technologies,2014,Equity and Fixed Income,6,100,3
+Moonshot Technologies,2014,Hedge Fund Services,40,82.41894769778607,5
+Moonshot Technologies,2014,Equity and Fixed Income,71,100,1
+Moonshot Technologies,2015,Equity and Fixed Income,59,100,3
+Moonshot Technologies,2015,Custody,98,100,2
+Moonshot Technologies,2016,Digital Assets,1,100,4
+Moonshot Technologies,2016,Multi Asset Class Sol,2,100,5
+Moonshot Technologies,2016,Advisory Services,74,51.09096390861927,3
+Moonshot Technologies,2016,Currency Management,61,59.760037632521815,4
+Moonshot Technologies,2016,Advisory Services,39,100,5
+Moonshot Technologies,2016,NAV Calculation,7,100,2
+Moonshot Technologies,2016,NAV Calculation,62,56.97215745090836,5
+Moonshot Technologies,2017,Advisory Services,14,50,4
+Moonshot Technologies,2017,Custody,87,68.18183626374412,2
+Moonshot Technologies,2017,Custody,71,50,1
+Moonshot Technologies,2017,Currency Management,91,50,2
+Moonshot Technologies,2018,Digital Assets,92,50,2
+Moonshot Technologies,2018,Multi Asset Class Sol,72,50,3
+Moonshot Technologies,2018,Equity and Fixed Income,86,100,2
+Moonshot Technologies,2018,Trade Settlements,52,50,2
+Moonshot Technologies,2018,Multi Asset Class Sol,51,66.22376534469485,2
+Moonshot Technologies,2018,Custody,62,96.60045901920057,2
+Moonshot Technologies,2018,Currency Management,78,73.54217484038999,5
+Moonshot Technologies,2018,Security Finances,39,50,1
+Moonshot Technologies,2018,Trade Settlements,89,99.83202271463927,4
+Moonshot Technologies,2019,Advisory Services,36,100,5
+Moonshot Technologies,2019,Advisory Services,1,100,3
+Moonshot Technologies,2019,Security Finances,19,80.5351818104391,5
+Moonshot Technologies,2020,Equity and Fixed Income,45,100,3
+Moonshot Technologies,2020,Equity and Fixed Income,60,66.47183288556522,1
+Moonshot Technologies,2020,Custody,72,100,2
+Moonshot Technologies,2020,Equity and Fixed Income,39,100,2
+Moonshot Technologies,2020,Digital Assets,74,50,4
+Moonshot Technologies,2020,Advisory Services,78,71.2605688320115,4
+Moonshot Technologies,2020,Multi Asset Class Sol,14,100,1
+Moonshot Technologies,2021,Equity and Fixed Income,39,50,3
+Moonshot Technologies,2021,Digital Assets,95,100,3
+Moonshot Technologies,2021,Custody,66,85.17020710617393,4
+Moonshot Technologies,2021,Security Finances,67,100,1
+Moonshot Technologies,2021,Advisory Services,4,100,4
+Moonshot Technologies,2022,Security Finances,72,90.05351556281877,4
+Apex Innovations,2010,Digital Assets,85,50,4
+Apex Innovations,2011,Security Finances,2,50,2
+Apex Innovations,2011,Equity and Fixed Income,73,50,2
+Apex Innovations,2011,Advisory Services,63,93.69523844876173,2
+Apex Innovations,2011,Currency Management,21,98.76169240633611,2
+Apex Innovations,2011,Currency Management,74,67.43299161882955,3
+Apex Innovations,2011,Currency Management,37,50,1
+Apex Innovations,2011,Security Finances,62,50,1
+Apex Innovations,2011,Security Finances,69,73.81519622811581,1
+Apex Innovations,2011,Custody,96,50,4
+Apex Innovations,2011,Hedge Fund Services,48,50,1
+Apex Innovations,2012,Custody,88,90.0771386825884,3
+Apex Innovations,2012,Digital Assets,92,100,1
+Apex Innovations,2012,Equity and Fixed Income,61,99.922600531023,3
+Apex Innovations,2012,Security Finances,22,50,1
+Apex Innovations,2012,Equity and Fixed Income,41,50,4
+Apex Innovations,2012,Multi Asset Class Sol,71,100,4
+Apex Innovations,2012,Equity and Fixed Income,34,50,2
+Apex Innovations,2013,NAV Calculation,75,50,3
+Apex Innovations,2014,Currency Management,69,50,2
+Apex Innovations,2014,Multi Asset Class Sol,30,95.0035714349126,4
+Apex Innovations,2015,Digital Assets,98,100,4
+Apex Innovations,2015,Currency Management,7,97.56045981067597,2
+Apex Innovations,2015,Advisory Services,17,100,2
+Apex Innovations,2015,NAV Calculation,59,100,3
+Apex Innovations,2015,Equity and Fixed Income,79,100,2
+Apex Innovations,2015,NAV Calculation,95,100,5
+Apex Innovations,2015,Trade Settlements,4,100,5
+Apex Innovations,2016,Currency Management,75,78.35090526342012,1
+Apex Innovations,2016,NAV Calculation,41,50,1
+Apex Innovations,2016,Currency Management,92,100,4
+Apex Innovations,2016,Multi Asset Class Sol,37,70.92912203914636,2
+Apex Innovations,2016,Multi Asset Class Sol,43,100,4
+Apex Innovations,2016,Advisory Services,83,50,2
+Apex Innovations,2016,Security Finances,95,100,5
+Apex Innovations,2016,Equity and Fixed Income,25,51.67102627966251,4
+Apex Innovations,2017,Trade Settlements,15,100,1
+Apex Innovations,2017,Digital Assets,75,50,5
+Apex Innovations,2017,Advisory Services,30,100,5
+Apex Innovations,2017,NAV Calculation,83,50,5
+Apex Innovations,2017,Custody,32,50,1
+Apex Innovations,2017,Hedge Fund Services,41,96.53349959290827,1
+Apex Innovations,2017,NAV Calculation,34,81.1923439631208,1
+Apex Innovations,2017,Digital Assets,46,100,1
+Apex Innovations,2018,Digital Assets,44,100,1
+Apex Innovations,2018,Multi Asset Class Sol,22,100,1
+Apex Innovations,2018,Advisory Services,73,100,3
+Apex Innovations,2018,Advisory Services,76,100,5
+Apex Innovations,2019,Custody,70,100,2
+Apex Innovations,2019,Equity and Fixed Income,94,100,3
+Apex Innovations,2019,Advisory Services,20,90.44326061111322,3
+Apex Innovations,2019,Security Finances,67,90.66456113451406,3
+Apex Innovations,2019,Security Finances,11,50,5
+Apex Innovations,2019,Hedge Fund Services,64,53.67919887058322,4
+Apex Innovations,2019,NAV Calculation,11,100,1
+Apex Innovations,2020,Currency Management,41,72.28778494850873,4
+Apex Innovations,2020,Security Finances,49,100,1
+Apex Innovations,2020,Multi Asset Class Sol,59,100,2
+Apex Innovations,2020,Trade Settlements,43,61.0332934716659,1
+Apex Innovations,2020,Currency Management,34,100,1
+Apex Innovations,2020,Equity and Fixed Income,81,97.24137844454998,1
+Apex Innovations,2020,NAV Calculation,58,100,3
+Apex Innovations,2021,NAV Calculation,45,51.197871911471,1
+Apex Innovations,2021,Equity and Fixed Income,87,100,5
+Apex Innovations,2021,Multi Asset Class Sol,8,50,2
+Apex Innovations,2022,Multi Asset Class Sol,10,84.41322325487249,5
+Apex Innovations,2022,Trade Settlements,36,50,1
+FusionWorks Group,2010,Digital Assets,95,53.10025817376717,2
+FusionWorks Group,2010,Digital Assets,44,100,5
+FusionWorks Group,2010,Security Finances,49,100,4
+FusionWorks Group,2010,Currency Management,84,100,1
+FusionWorks Group,2010,Custody,9,50,1
+FusionWorks Group,2010,Advisory Services,42,100,1
+FusionWorks Group,2010,Advisory Services,86,72.69137289976115,2
+FusionWorks Group,2011,Hedge Fund Services,96,69.8925681034406,3
+FusionWorks Group,2012,Multi Asset Class Sol,77,50,3
+FusionWorks Group,2012,Custody,32,100,4
+FusionWorks Group,2012,Advisory Services,26,95.06866251009109,2
+FusionWorks Group,2012,Currency Management,16,65.5325662375152,1
+FusionWorks Group,2012,Digital Assets,15,69.4987408749061,5
+FusionWorks Group,2013,Hedge Fund Services,43,54.84869825738013,2
+FusionWorks Group,2013,Digital Assets,89,50,3
+FusionWorks Group,2013,Currency Management,50,87.33676316349616,1
+FusionWorks Group,2013,Custody,13,50,1
+FusionWorks Group,2013,NAV Calculation,42,50,3
+FusionWorks Group,2013,Currency Management,13,50,2
+FusionWorks Group,2013,Equity and Fixed Income,69,100,5
+FusionWorks Group,2013,Trade Settlements,32,100,3
+FusionWorks Group,2014,Digital Assets,67,100,4
+FusionWorks Group,2014,NAV Calculation,63,100,5
+FusionWorks Group,2015,Digital Assets,83,100,2
+FusionWorks Group,2015,Equity and Fixed Income,89,100,2
+FusionWorks Group,2015,Advisory Services,34,51.392595567978425,3
+FusionWorks Group,2015,Advisory Services,21,100,4
+FusionWorks Group,2015,Advisory Services,96,92.30616706885502,3
+FusionWorks Group,2016,NAV Calculation,94,100,4
+FusionWorks Group,2016,Equity and Fixed Income,56,100,2
+FusionWorks Group,2016,Custody,34,97.08505571645466,1
+FusionWorks Group,2016,Digital Assets,88,62.37388822336267,2
+FusionWorks Group,2016,Hedge Fund Services,4,52.09079222595391,4
+FusionWorks Group,2016,Security Finances,99,100,4
+FusionWorks Group,2016,Trade Settlements,31,100,3
+FusionWorks Group,2016,Trade Settlements,67,100,2
+FusionWorks Group,2016,Custody,67,100,5
+FusionWorks Group,2017,Hedge Fund Services,83,85.87427717074135,5
+FusionWorks Group,2017,Equity and Fixed Income,55,100,2
+FusionWorks Group,2017,Multi Asset Class Sol,86,50,4
+FusionWorks Group,2018,Trade Settlements,80,56.58347189237523,1
+FusionWorks Group,2018,Currency Management,25,51.49854588068534,1
+FusionWorks Group,2018,Trade Settlements,97,50,3
+FusionWorks Group,2018,Equity and Fixed Income,90,53.09236137506125,5
+FusionWorks Group,2018,Multi Asset Class Sol,54,57.489689129071024,1
+FusionWorks Group,2018,Equity and Fixed Income,41,74.33225078591198,5
+FusionWorks Group,2019,NAV Calculation,41,100,3
+FusionWorks Group,2019,Custody,98,50,2
+FusionWorks Group,2020,Multi Asset Class Sol,88,50,3
+FusionWorks Group,2021,Security Finances,54,74.44416614512204,4
+FusionWorks Group,2021,Equity and Fixed Income,46,50,5
+FusionWorks Group,2021,Equity and Fixed Income,85,50,3
+FusionWorks Group,2021,Digital Assets,8,50,2
+FusionWorks Group,2022,Digital Assets,31,50,2
+FusionWorks Group,2022,Equity and Fixed Income,14,59.08694108488886,1
+FusionWorks Group,2022,Security Finances,77,68.38557686481201,3
+FusionWorks Group,2022,Custody,92,50,4
+FusionWorks Group,2022,Hedge Fund Services,15,50,2
+FusionWorks Group,2022,Advisory Services,97,93.71719487996758,1
+FusionWorks Group,2022,Custody,8,50,5
+FusionWorks Group,2022,Digital Assets,78,50,5
+FusionWorks Group,2022,Equity and Fixed Income,74,50,4

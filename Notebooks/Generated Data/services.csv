@@ -1,0 +1,11 @@
+service,business_line,cost_per_unit,profit_margin
+Equity and Fixed Income,Asset Management,91,0.15
+Advisory Services,Investment Management,13,0.95
+Hedge Fund Services,Investment Management,45,0.32
+Digital Assets,Asset Services,38,0.18
+Trade Settlements,Global Custody,23,0.87
+Currency Management,Global Markets,79,0.12
+NAV Calculation,Fund Accounting,85,0.55
+Custody,Investment Services,14,0.04
+Security Finances,Investment Management,21,0.28
+Multi Asset Class Sol,Data & Analytics,39,0.65

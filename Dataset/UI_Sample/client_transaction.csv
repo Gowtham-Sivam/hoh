@@ -1,0 +1,3 @@
+client,service,transaction_type,activity_date,amount
+client1,service3,inquiry,21-September-21,12
+client2,service1,transaction,21-January-22,10

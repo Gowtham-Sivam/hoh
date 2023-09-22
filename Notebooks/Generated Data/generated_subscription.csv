@@ -1,0 +1,116 @@
+client,year,service,roi,cost,feedback
+client 1,2023,Multi Asset Class Sol,3,57,3
+client 1,2024,Trade Settlements,53,95,1
+client 1,2023,Digital Assets,11,35,1
+client 1,2024,Trade Settlements,46,95,2
+client 1,2023,Digital Assets,97,35,1
+client 1,2024,Trade Settlements,99,95,2
+client 1,2024,Equity and Fixed Income,39,99,3
+client 1,2023,NAV Calculation,36,67,3
+client 1,2024,Hedge Fund Services,34,24,1
+client 1,2023,Multi Asset Class Sol,35,57,1
+client 2,2024,Digital Assets,92,35,4
+client 3,2023,Currency Management,79,67,1
+client 3,2023,Security Finances,91,86,4
+client 3,2024,Digital Assets,16,35,2
+client 3,2024,NAV Calculation,52,67,3
+client 3,2023,Custody,1,11,4
+client 3,2023,Digital Assets,97,35,5
+client 3,2024,Hedge Fund Services,72,24,5
+client 3,2024,Advisory Services,97,54,3
+client 4,2023,Trade Settlements,78,95,5
+client 4,2023,Equity and Fixed Income,43,99,2
+client 4,2023,Equity and Fixed Income,73,99,3
+client 5,2023,Currency Management,39,67,3
+client 5,2024,Multi Asset Class Sol,39,57,5
+client 5,2023,NAV Calculation,84,67,5
+client 5,2024,Equity and Fixed Income,28,99,1
+client 5,2023,Custody,95,11,4
+client 5,2024,Equity and Fixed Income,13,99,4
+client 5,2024,Custody,39,11,4
+client 5,2024,Trade Settlements,72,95,2
+client 5,2023,Equity and Fixed Income,19,99,2
+client 6,2024,Multi Asset Class Sol,56,57,4
+client 6,2023,NAV Calculation,59,67,2
+client 6,2023,Currency Management,7,67,4
+client 6,2024,Multi Asset Class Sol,25,57,4
+client 7,2023,Trade Settlements,45,95,1
+client 7,2024,Custody,62,11,2
+client 7,2023,Multi Asset Class Sol,61,57,2
+client 7,2023,NAV Calculation,78,67,2
+client 7,2023,Equity and Fixed Income,22,99,2
+client 8,2024,Equity and Fixed Income,45,99,4
+client 9,2023,Hedge Fund Services,66,24,4
+client 9,2024,Currency Management,50,67,1
+client 9,2024,Currency Management,76,67,2
+client 9,2023,Advisory Services,59,54,5
+client 9,2023,Equity and Fixed Income,86,99,4
+client 9,2023,Currency Management,27,67,5
+client 9,2023,Equity and Fixed Income,38,99,3
+client 9,2024,Currency Management,85,67,2
+client 10,2023,Equity and Fixed Income,16,99,4
+client 10,2024,Equity and Fixed Income,17,99,4
+client 10,2024,Security Finances,12,86,3
+client 11,2023,NAV Calculation,3,67,1
+client 11,2023,Trade Settlements,6,95,5
+client 11,2024,Trade Settlements,35,95,4
+client 12,2024,Digital Assets,50,35,4
+client 12,2023,Digital Assets,57,35,3
+client 12,2024,Currency Management,41,67,2
+client 12,2024,Hedge Fund Services,44,24,2
+client 12,2023,Custody,79,11,2
+client 12,2023,Security Finances,72,86,4
+client 13,2024,Hedge Fund Services,72,24,4
+client 13,2024,Security Finances,48,86,3
+client 13,2023,Digital Assets,12,35,2
+client 13,2024,Currency Management,23,67,1
+client 13,2023,NAV Calculation,40,67,3
+client 13,2024,Equity and Fixed Income,16,99,5
+client 14,2023,Multi Asset Class Sol,49,57,2
+client 14,2023,Security Finances,65,86,2
+client 14,2023,Custody,94,11,1
+client 14,2023,Security Finances,2,86,4
+client 15,2024,Trade Settlements,55,95,1
+client 15,2024,Trade Settlements,54,95,5
+client 15,2024,Hedge Fund Services,2,24,5
+client 16,2023,Advisory Services,3,54,1
+client 16,2023,Digital Assets,46,35,1
+client 16,2024,Advisory Services,11,54,3
+client 16,2024,Advisory Services,70,54,3
+client 16,2024,Trade Settlements,68,95,1
+client 16,2023,Digital Assets,82,35,2
+client 16,2023,Equity and Fixed Income,35,99,3
+client 16,2023,Custody,34,11,4
+client 17,2024,Security Finances,44,86,5
+client 17,2024,Trade Settlements,10,95,4
+client 17,2023,Trade Settlements,97,95,5
+client 17,2023,Currency Management,20,67,3
+client 17,2023,Currency Management,93,67,4
+client 17,2024,Digital Assets,61,35,5
+client 17,2024,Multi Asset Class Sol,71,57,3
+client 17,2024,Hedge Fund Services,42,24,1
+client 17,2023,Trade Settlements,39,95,4
+client 17,2023,Multi Asset Class Sol,60,57,4
+client 18,2023,Digital Assets,28,35,3
+client 18,2023,Digital Assets,14,35,5
+client 18,2023,Multi Asset Class Sol,4,57,4
+client 18,2023,Equity and Fixed Income,72,99,1
+client 18,2023,Security Finances,19,86,2
+client 19,2024,Currency Management,13,67,5
+client 19,2023,Advisory Services,79,54,4
+client 19,2024,Security Finances,50,86,3
+client 19,2024,Multi Asset Class Sol,74,57,1
+client 19,2024,Hedge Fund Services,98,24,1
+client 19,2024,Multi Asset Class Sol,92,57,5
+client 19,2024,Multi Asset Class Sol,74,57,5
+client 19,2024,Currency Management,2,67,3
+client 20,2024,Advisory Services,73,54,2
+client 20,2023,Advisory Services,37,54,3
+client 20,2024,NAV Calculation,70,67,4
+client 20,2023,NAV Calculation,45,67,4
+client 20,2023,NAV Calculation,5,67,4
+client 20,2024,Custody,33,11,2
+client 20,2024,Multi Asset Class Sol,49,57,5
+client 20,2024,Multi Asset Class Sol,42,57,3
+client 20,2023,Multi Asset Class Sol,15,57,5
+client 20,2024,Advisory Services,70,54,2
